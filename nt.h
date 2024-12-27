@@ -174,4 +174,4 @@ typedef enum _KAPC_ENVIRONMENT
 typedef
 VOID
 (NTAPI *PKNORMAL_ROUTINE) (
-	_In_ P
+	_I
