@@ -157,5 +157,4 @@ static PVOID UtlpGetModuleExport(
 					return NULL;
 				}
 
-				return ExportAddress;
-	
+				return ExportAddres
