@@ -138,4 +138,4 @@ static PVOID UtlpGetModuleExport(
 		return NULL;
 	}
 
-	for (ULONG Index = 0; Index < ExportDirectory->Numbe
+	for (ULONG Index = 0; Index < ExportDirectory->N
