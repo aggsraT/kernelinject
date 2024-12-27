@@ -89,5 +89,4 @@ NTSTATUS DriverEntry(
 	DriverObject->DriverUnload = DriverUnload;
 
 	PDEVICE_OBJECT DeviceObject = NULL;
-	NTSTATUS Status = IoCreateDevice(
-		
+	NTSTATUS Status = IoCreateDevice
