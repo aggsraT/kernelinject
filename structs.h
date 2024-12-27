@@ -325,4 +325,4 @@ typedef struct _IMAGE_EXPORT_DIRECTORY
 	ULONG   Name;
 	ULONG   Base;
 	ULONG   NumberOfFunctions;
-	ULONG   NumberOfN
+	ULONG   Numbe
