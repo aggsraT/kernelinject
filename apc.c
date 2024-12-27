@@ -224,5 +224,4 @@ static NTSTATUS ApcpQueryExecutionOnFirstProcessThread(
 			continue;
 		}
 
-		PETHREAD Thread = NULL;
-		
+		PETHREAD Thread = NULL
