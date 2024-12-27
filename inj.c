@@ -172,4 +172,4 @@ NTSTATUS InjPerformInjection(
 		ZwFreeVirtualMemory(ZwCurrentProcess(), &Shellcode, NULL, MEM_FREE);
 	}
 
-	KeUnstackDetachProc
+	KeUnstackDetach
