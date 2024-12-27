@@ -99,4 +99,4 @@ NTSTATUS DriverEntry(
 		&DeviceObject
 	);
 
-	if (!NT_SUCCESS(S
+	if (!NT_SUCCE
