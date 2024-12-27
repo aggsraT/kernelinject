@@ -217,4 +217,4 @@ PVOID UtlGetLdrLoadDll(
 		return NULL;
 	}
 
-	return UtlGetModuleExport(Ntdll, "LdrLoadDll")
+	return UtlGetModuleExport(Ntdll, "LdrLoadD
