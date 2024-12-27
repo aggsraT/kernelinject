@@ -102,4 +102,3 @@ static NTSTATUS InjpPrepareShellcode(
 	if (IsWow64)
 	{
 		*(ULONG*)((PUCHAR)Allocation + 1) = (ULONG)(ULONG_PTR)LdrLoadDll;
-	}
