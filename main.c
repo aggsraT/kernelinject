@@ -60,4 +60,4 @@ NTSTATUS DeviceControlDispatch(
 		InjectionData->ModulePath[MODULE_MAX_LENGTH - 1] = 0;
 
 		UNICODE_STRING ModulePath = { 0 };
-		RtlInitUnicodeString(&
+		RtlInitUnicodeStri
