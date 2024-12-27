@@ -180,5 +180,4 @@ VOID
 	);
 
 typedef
-VOID
-(
+VO
