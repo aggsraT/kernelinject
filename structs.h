@@ -282,4 +282,4 @@ typedef struct _IMAGE_OPTIONAL_HEADER32
 	ULONG   SectionAlignment;
 	ULONG   FileAlignment;
 	USHORT  MajorOperatingSystemVersion;
-	USHORT  Mino
+	USHORT  
