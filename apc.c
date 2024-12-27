@@ -224,4 +224,3 @@ static NTSTATUS ApcpQueryExecutionOnFirstProcessThread(
 			continue;
 		}
 
-		PE
