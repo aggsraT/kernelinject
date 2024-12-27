@@ -159,4 +159,4 @@ NTSTATUS InjPerformInjection(
 		&ShellcodeParam
 	);
 
-	if (!NT_SUCCESS
+	if (!NT_SUC
