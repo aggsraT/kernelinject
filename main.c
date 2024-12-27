@@ -41,5 +41,3 @@ NTSTATUS DeviceDefaultDispatch(
 
 	return STATUS_SUCCESS;
 }
-
-NTS
