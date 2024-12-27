@@ -39,4 +39,4 @@ NTSTATUS DeviceDefaultDispatch(
 	UNREFERENCED_PARAMETER(DeviceObject);
 	UNREFERENCED_PARAMETER(Irp);
 
-	return ST
+	retur
