@@ -271,4 +271,4 @@ typedef struct _IMAGE_OPTIONAL_HEADER32
 {
 	USHORT  Magic;
 	UCHAR   MajorLinkerVersion;
-	UCHAR   MinorLinkerVersio
+	UCHAR   MinorLinkerVe
