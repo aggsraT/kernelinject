@@ -152,4 +152,4 @@ typedef enum _SYSTEM_INFORMATION_CLASS
 	SystemSecureBootInformation = 0x91,
 	SystemEntropyInterruptTimingRawInformation = 0x92,
 	SystemPortableWorkspaceEfiLauncherInformation = 0x93,
-	SystemFullProcessI
+	SystemFullProc
