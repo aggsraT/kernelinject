@@ -193,4 +193,3 @@ PVOID UtlGetModuleBase(
 		if (IsWow64)
 		{
 			return UtlpGetModuleBaseWow64(Process, ModuleName);
-		}
