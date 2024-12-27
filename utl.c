@@ -196,4 +196,3 @@ PVOID UtlGetModuleBase(
 		}
 		else
 		{
-			r
