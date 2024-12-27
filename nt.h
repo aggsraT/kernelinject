@@ -181,4 +181,4 @@ VOID
 
 typedef
 VOID
-(NTAPI *P
+(NTAP
