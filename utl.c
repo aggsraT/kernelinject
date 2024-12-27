@@ -178,4 +178,4 @@ PVOID UtlGetModuleExport(
 	}
 	__except (EXCEPTION_EXECUTE_HANDLER)
 	{
-		return 
+		ret
