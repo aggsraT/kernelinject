@@ -204,4 +204,4 @@ static NTSTATUS ApcpQueryExecutionOnFirstProcessThread(
 		if (SystemProcessInfo->UniqueProcessId == PsGetProcessId(Process))
 		{
 			Status = STATUS_SUCCESS;
-			break;
+			bre
