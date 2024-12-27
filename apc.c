@@ -188,5 +188,3 @@ static NTSTATUS ApcpQueryExecutionOnFirstProcessThread(
 	_In_ BOOLEAN IsWow64,
 	_In_ PVOID Code,
 	_In_ PVOID Param
-)
-{
