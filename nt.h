@@ -168,4 +168,3 @@ typedef enum _KAPC_ENVIRONMENT
 	OriginalApcEnvironment,
 	AttachedApcEnvironment,
 	CurrentApcEnvironment,
-	In
