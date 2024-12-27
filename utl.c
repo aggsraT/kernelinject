@@ -122,4 +122,4 @@ static PVOID UtlpGetModuleExport(
 		return NULL;
 	}
 
-	ULON
+	
