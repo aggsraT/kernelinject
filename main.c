@@ -50,4 +50,4 @@ NTSTATUS DeviceControlDispatch(
 	UNREFERENCED_PARAMETER(DeviceObject);
 
 	PIO_STACK_LOCATION StackLocation = IoGetCurrentIrpStackLocation(Irp);
-	NTSTA
+	N
