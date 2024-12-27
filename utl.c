@@ -183,4 +183,4 @@ PVOID UtlGetModuleExport(
 }
 
 PVOID UtlGetModuleBase(
-	_In_ PEPROC
+	_In_ PE
