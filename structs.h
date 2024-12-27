@@ -264,4 +264,3 @@ typedef struct _IMAGE_OPTIONAL_HEADER64
 	ULONGLONG SizeOfHeapCommit;
 	ULONG LoaderFlags;
 	ULONG NumberOfRvaAndSizes;
-	IM
