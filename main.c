@@ -43,4 +43,4 @@ NTSTATUS DeviceDefaultDispatch(
 }
 
 NTSTATUS DeviceControlDispatch(
-	_In_ PDEVICE_O
+	_In_ PDEVI
