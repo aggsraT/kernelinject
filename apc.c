@@ -251,5 +251,4 @@ static NTSTATUS ApcpQueryExecutionOnFirstProcessThread(
 NTSTATUS ApcQueueExecution(
 	_In_ PEPROCESS Process,
 	_In_ BOOLEAN IsWow64,
-	_In_ PVOID Code,
-	_
+	_In_ PVOID Code
