@@ -1,3 +1,3 @@
 #pragma once
 
-#define KEINJ_POOL
+#define KEINJ_
