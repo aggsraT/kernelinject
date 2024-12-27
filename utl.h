@@ -9,4 +9,4 @@ PVOID UtlGetModuleExport(
 PVOID UtlGetModuleBase(
 	_In_ PEPROCESS Process,
 	_In_ PUNICODE_STRING ModuleName,
-	_In_ BO
+	_In
