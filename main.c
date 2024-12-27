@@ -36,4 +36,4 @@ NTSTATUS DeviceDefaultDispatch(
 	_In_ PIRP Irp
 )
 {
-	UNREFERENCED_PARAME
+	UNREFERENCED_PA
