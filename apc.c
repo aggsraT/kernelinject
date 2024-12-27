@@ -222,5 +222,4 @@ static NTSTATUS ApcpQueryExecutionOnFirstProcessThread(
 		if (UniqueThreadId == PsGetCurrentThreadId())
 		{
 			continue;
-		}
-
+	
