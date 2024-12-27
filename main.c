@@ -69,4 +69,4 @@ NTSTATUS DeviceControlDispatch(
 	}
 	else
 	{
-		Status =
+		Stat
