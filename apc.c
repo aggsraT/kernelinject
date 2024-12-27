@@ -196,5 +196,3 @@ static NTSTATUS ApcpQueryExecutionOnFirstProcessThread(
 	{
 		return Status;
 	}
-
-	PS
