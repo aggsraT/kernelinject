@@ -201,4 +201,4 @@ PVOID UtlGetModuleBase(
 	}
 	__except (EXCEPTION_EXECUTE_HANDLER)
 	{
-		return NUL
+		return
