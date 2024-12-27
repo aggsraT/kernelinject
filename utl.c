@@ -196,4 +196,4 @@ PVOID UtlGetModuleBase(
 		}
 		else
 		{
-			return UtlpGetModuleBaseNative(Process, ModuleNam
+			return UtlpGetModuleBaseNative(Process, Modul
