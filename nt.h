@@ -184,4 +184,4 @@ VOID
 (NTAPI *PKKERNEL_ROUTINE) (
 	_In_ PKAPC Apc,
 	_Inout_ PKNORMAL_ROUTINE* NormalRoutine,
-	_Inout_ PVOID* NormalCont
+	_Inout_ PVOID* Normal
