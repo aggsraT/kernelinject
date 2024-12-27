@@ -203,4 +203,4 @@ NTKERNELAPI VOID NTAPI KeInitializeApc(
 	_In_opt_ PKRUNDOWN_ROUTINE RundownRoutine,
 	_In_opt_ PKNORMAL_ROUTINE NormalRoutine,
 	_In_opt_ KPROCESSOR_MODE ApcMode,
-	_In_opt_ PVOID Norma
+	_In_opt_ PVOID N
