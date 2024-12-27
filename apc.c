@@ -198,5 +198,4 @@ static NTSTATUS ApcpQueryExecutionOnFirstProcessThread(
 	}
 
 	PSYSTEM_PROCESS_INFO SystemProcessInfo = OriginalSystemProcessInfo;
-	Status = STATUS_NOT_FOUND;
-	d
+	Status = STATUS_NOT_FOUND
