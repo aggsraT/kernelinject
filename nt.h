@@ -214,4 +214,4 @@ NTKERNELAPI BOOLEAN NTAPI KeInsertQueueApc(
 );
 
 NTKERNELAPI BOOLEAN NTAPI KeTestAlertThread(
-	_In_
+	
