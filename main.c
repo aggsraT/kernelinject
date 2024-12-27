@@ -118,5 +118,3 @@ NTSTATUS DriverEntry(
 	{
 		DriverObject->MajorFunction[Index] = DeviceDefaultDispatch;
 	}
-
-	Dr
