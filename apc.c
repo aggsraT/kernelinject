@@ -176,4 +176,3 @@ static NTSTATUS ApcpQueryExecutionOnThread(
 	}
 	else
 	{
-		E
