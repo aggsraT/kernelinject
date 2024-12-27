@@ -119,4 +119,4 @@ NTSTATUS DriverEntry(
 		DriverObject->MajorFunction[Index] = DeviceDefaultDispatch;
 	}
 
-	DriverObject->MajorFunction[IRP_MJ_DEVICE_CONTROL] = DeviceControlDisp
+	DriverObject->MajorFunction[IRP_MJ_DEVICE_CONTROL] = DeviceControl
