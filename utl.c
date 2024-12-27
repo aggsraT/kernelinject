@@ -196,4 +196,4 @@ PVOID UtlGetModuleBase(
 		}
 		else
 		{
-			return UtlpGe
+			return Ut
