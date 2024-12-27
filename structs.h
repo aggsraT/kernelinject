@@ -291,5 +291,4 @@ typedef struct _IMAGE_OPTIONAL_HEADER32
 	ULONG   SizeOfImage;
 	ULONG   SizeOfHeaders;
 	ULONG   CheckSum;
-	USHORT  Subsystem;
-	U
+	USHORT  Subsystem
