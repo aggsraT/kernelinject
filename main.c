@@ -51,5 +51,3 @@ NTSTATUS DeviceControlDispatch(
 
 	PIO_STACK_LOCATION StackLocation = IoGetCurrentIrpStackLocation(Irp);
 	NTSTATUS Status = STATUS_SUCCESS;
-
-	i
