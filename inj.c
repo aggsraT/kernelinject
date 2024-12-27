@@ -148,5 +148,3 @@ NTSTATUS InjPerformInjection(
 		ObDereferenceObject(Process);
 		return Status;
 	}
-
-	PV
