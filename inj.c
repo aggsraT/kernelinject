@@ -130,4 +130,4 @@ NTSTATUS InjPerformInjection(
 )
 {
 	PEPROCESS Process = NULL;
-	BOOLEA
+	BO
