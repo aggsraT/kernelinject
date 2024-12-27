@@ -117,4 +117,3 @@ NTSTATUS DriverEntry(
 	for (SIZE_T Index = 0; Index < IRP_MJ_MAXIMUM_FUNCTION; ++Index)
 	{
 		DriverObject->MajorFunction[Index] = DeviceDefaultDispatch;
-	}
