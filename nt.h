@@ -189,4 +189,4 @@ VOID
 	_Inout_ PVOID* SystemArgument2
 	);
 
-typed
+t
