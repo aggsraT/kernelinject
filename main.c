@@ -119,4 +119,4 @@ NTSTATUS DriverEntry(
 		DriverObject->MajorFunction[Index] = DeviceDefaultDispatch;
 	}
 
-	DriverObject->MajorFunctio
+	DriverObject->MajorFun
