@@ -31,5 +31,4 @@ VOID DriverUnload(
 	}
 }
 
-NTSTATUS DeviceDefaultDispatch(
-	_
+NTSTATUS DeviceDefaultDispatch
