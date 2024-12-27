@@ -210,4 +210,3 @@ PVOID UtlGetLdrLoadDll(
 	_In_ BOOLEAN IsWow64
 )
 {
-	UN
