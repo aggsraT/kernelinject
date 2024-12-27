@@ -234,4 +234,4 @@ NTKERNELAPI PVOID NTAPI PsGetCurrentProcessWow64Process(
 );
 
 NTKERNELAPI NTSTATUS NTAPI ZwQuerySystemInformation(
-	_In_ SYSTEM_INFORMATION_CLASS SystemInformationC
+	_In_ SYSTEM_INFORMATION_CLASS SystemInformat
