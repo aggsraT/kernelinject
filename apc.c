@@ -255,5 +255,4 @@ NTSTATUS ApcQueueExecution(
 	_In_ PVOID Param
 )
 {
-	return ApcpQueryExecutionOnFirstProcessThread(Process, IsWow64, Code, Param);
-}
+	return ApcpQueryExecutionOnFirstProcessThread(Process, IsWow64, Code, Param
