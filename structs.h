@@ -316,4 +316,4 @@ typedef struct _IMAGE_NT_HEADERS
 	IMAGE_OPTIONAL_HEADER32 OptionalHeader;
 } IMAGE_NT_HEADERS;
 
-typedef struct _IMAGE_EXPORT_DIRE
+typedef struct _IMAGE_EXPORT_
