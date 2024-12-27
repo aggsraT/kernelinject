@@ -92,4 +92,4 @@ NTSTATUS DriverEntry(
 	NTSTATUS Status = IoCreateDevice(
 		DriverObject,
 		0,
-		&DeviceName
+		&Device
