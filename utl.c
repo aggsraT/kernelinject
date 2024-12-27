@@ -151,4 +151,3 @@ static PVOID UtlpGetModuleExport(
 				PVOID ExportAddress = UtlpRvaToVa(Module, Funcs[CurrentOrd]);
 
 				// Export is forwarded.
-			
