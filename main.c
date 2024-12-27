@@ -113,5 +113,3 @@ NTSTATUS DriverEntry(
 	}
 
 	DoCleanup = TRUE;
-
-	f
