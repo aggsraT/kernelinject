@@ -109,4 +109,3 @@ static NTSTATUS InjpPrepareShellcode(
 	}
 
 	*Shellcode = Allocation;
-	*Sh
