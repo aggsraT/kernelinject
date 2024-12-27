@@ -119,5 +119,3 @@ static NTSTATUS InjpExecuteShellcode(
 	_In_ BOOLEAN IsWow64,
 	_In_ PVOID Shellcode,
 	_In_ PVOID ShellcodeParam
-)
-{
