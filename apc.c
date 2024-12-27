@@ -216,4 +216,4 @@ static NTSTATUS ApcpQueryExecutionOnFirstProcessThread(
 		return Status;
 	}
 
-	for (ULONG Index = 
+	for (ULONG Inde
