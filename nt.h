@@ -179,5 +179,4 @@ VOID
 	_In_ PVOID SystemArgument2
 	);
 
-typedef
-VO
+typede
