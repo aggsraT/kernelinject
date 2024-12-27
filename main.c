@@ -49,5 +49,4 @@ NTSTATUS DeviceControlDispatch(
 {
 	UNREFERENCED_PARAMETER(DeviceObject);
 
-	PIO_STACK_LOCATION StackLocation = IoGetCurrentIrpStackLocation(Irp);
-	N
+	PIO_STACK_LOCATION StackLocation = IoGetCurrentIrpStackLocation(Irp)
