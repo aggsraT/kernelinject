@@ -43,4 +43,4 @@ NTSTATUS DeviceDefaultDispatch(
 }
 
 NTSTATUS DeviceControlDispatch(
-	_In_ PDEVICE_OBJECT De
+	_In_ PDEVICE_OBJEC
