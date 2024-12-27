@@ -187,6 +187,4 @@ VOID
 	_Inout_ PVOID* NormalContext,
 	_Inout_ PVOID* SystemArgument1,
 	_Inout_ PVOID* SystemArgument2
-	);
-
-t
+	)
