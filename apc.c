@@ -167,4 +167,4 @@ static NTSTATUS ApcpQueryExecutionOnThread(
 	{
 		if (KeInsertQueueApc(AlertThreadApc, NULL, NULL, 0))
 		{
-			return PsIsThreadTerminating(Thread) ? STA
+			return PsIsThreadTerminating(Thread) ?
