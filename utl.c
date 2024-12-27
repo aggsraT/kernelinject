@@ -172,5 +172,4 @@ PVOID UtlGetModuleExport(
 	_In_ PCHAR ExportName
 )
 {
-	__try
-	{
+	__tr
