@@ -197,4 +197,3 @@ PVOID UtlGetModuleBase(
 		else
 		{
 			return UtlpGetModuleBaseNative(Process, ModuleName);
-		}
