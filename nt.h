@@ -182,4 +182,4 @@ VOID
 typedef
 VOID
 (NTAPI *PKKERNEL_ROUTINE) (
-	_In_ PKA
+	_In_
