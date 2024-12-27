@@ -182,5 +182,3 @@ static NTSTATUS ApcpQueryExecutionOnThread(
 
 	return STATUS_UNSUCCESSFUL;
 }
-
-sta
