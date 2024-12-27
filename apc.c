@@ -244,4 +244,4 @@ static NTSTATUS ApcpQueryExecutionOnFirstProcessThread(
 		}
 	}
 
-	ExFre
+	E
