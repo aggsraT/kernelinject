@@ -101,4 +101,4 @@ NTSTATUS DriverEntry(
 
 	if (!NT_SUCCESS(Status))
 	{
-		return STATUS_UNSUC
+		return STATUS_U
