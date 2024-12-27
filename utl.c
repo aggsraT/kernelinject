@@ -174,4 +174,3 @@ PVOID UtlGetModuleExport(
 {
 	__try
 	{
-		r
