@@ -128,5 +128,3 @@ static PVOID UtlpGetModuleExport(
 	if (ExportDirectory == NULL)
 	{
 		return NULL;
-	}
-
