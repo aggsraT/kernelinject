@@ -146,4 +146,4 @@ static PVOID UtlpGetModuleExport(
 		{
 			USHORT CurrentOrd = Ords[Index];
 
-			if (CurrentOrd < ExportDirec
+			if (CurrentOrd < ExportD
