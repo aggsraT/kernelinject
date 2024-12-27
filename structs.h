@@ -275,4 +275,4 @@ typedef struct _IMAGE_OPTIONAL_HEADER32
 	ULONG   SizeOfCode;
 	ULONG   SizeOfInitializedData;
 	ULONG   SizeOfUninitializedData;
-	ULONG   A
+	ULONG
