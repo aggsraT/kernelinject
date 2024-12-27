@@ -151,4 +151,3 @@ NTSTATUS InjPerformInjection(
 
 	PVOID Shellcode = NULL;
 	PVOID ShellcodeParam = NULL;
-	Sta
