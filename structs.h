@@ -280,4 +280,4 @@ typedef struct _IMAGE_OPTIONAL_HEADER32
 	ULONG   BaseOfData;
 	ULONG   ImageBase;
 	ULONG   SectionAlignment;
-	ULONG   FileAl
+	ULONG   Fi
