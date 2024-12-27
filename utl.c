@@ -210,5 +210,4 @@ PVOID UtlGetLdrLoadDll(
 	_In_ BOOLEAN IsWow64
 )
 {
-	UNICODE_STRING NtdllString = RTL_CONSTANT_STRING(L"ntdll.dll");
-	P
+	UNICODE_STRING NtdllString = RTL_CONSTANT_STRING(L"ntdll.dll")
