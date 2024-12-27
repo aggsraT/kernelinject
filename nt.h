@@ -227,6 +227,4 @@ NTKERNELAPI PPEB NTAPI PsGetProcessPeb(
 
 NTKERNELAPI PVOID NTAPI PsGetProcessWow64Process(
 	_In_ PEPROCESS Process
-);
-
-N
+)
