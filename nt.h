@@ -185,4 +185,4 @@ VOID
 	_In_ PKAPC Apc,
 	_Inout_ PKNORMAL_ROUTINE* NormalRoutine,
 	_Inout_ PVOID* NormalContext,
-	_Inout_ PVOID* SystemArgum
+	_Inout_ PVOID* SystemA
