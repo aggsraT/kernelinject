@@ -136,6 +136,4 @@ static PVOID UtlpGetModuleExport(
 	if (Names == NULL || Funcs == NULL || Ords == NULL)
 	{
 		return NULL;
-	}
-
 	
