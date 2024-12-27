@@ -59,4 +59,4 @@ NTSTATUS DeviceControlDispatch(
 		PINJECTION_DATA InjectionData = (PINJECTION_DATA)Irp->AssociatedIrp.SystemBuffer;
 		InjectionData->ModulePath[MODULE_MAX_LENGTH - 1] = 0;
 
-		UNICODE_STRING 
+		UNICODE_STR
