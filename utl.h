@@ -7,5 +7,4 @@ PVOID UtlGetModuleExport(
 );
 
 PVOID UtlGetModuleBase(
-	_In_ PEPROCESS Process,
-	_
+	_In_ PEPROCESS Process
