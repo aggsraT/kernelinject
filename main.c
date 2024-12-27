@@ -47,4 +47,4 @@ NTSTATUS DeviceControlDispatch(
 	_In_ PIRP Irp
 )
 {
-	UNREFERENCED_PARAMETER(DeviceObject)
+	UNREFERENCED_PARAMETER(DeviceObj
