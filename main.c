@@ -79,5 +79,4 @@ NTSTATUS DeviceControlDispatch(
 	return Status;
 }
 
-NTSTATUS DriverEntry(
-	
+NTSTATUS DriverEntr
