@@ -202,5 +202,4 @@ static NTSTATUS ApcpQueryExecutionOnFirstProcessThread(
 	do
 	{
 		if (SystemProcessInfo->UniqueProcessId == PsGetProcessId(Process))
-		{
 		
