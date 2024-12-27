@@ -207,4 +207,4 @@ static NTSTATUS ApcpQueryExecutionOnFirstProcessThread(
 			break;
 		}
 		
-		SystemProcessInfo =
+		SystemProcessIn
