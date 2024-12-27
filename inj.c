@@ -163,4 +163,4 @@ NTSTATUS InjPerformInjection(
 	{
 		KeUnstackDetachProcess(&ApcState);
 		ObDereferenceObject(Process);
-		return Statu
+		return S
