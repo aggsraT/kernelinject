@@ -197,5 +197,4 @@ static NTSTATUS ApcpQueryExecutionOnFirstProcessThread(
 		return Status;
 	}
 
-	PSYSTEM_PROCESS_INFO SystemProcessInfo = OriginalSystemProcessInfo;
-	S
+	PSYSTEM_PROCESS_INFO SystemProcessInfo = OriginalSystemProcessInfo
