@@ -299,4 +299,4 @@ typedef struct _IMAGE_OPTIONAL_HEADER32
 	ULONG   SizeOfHeapCommit;
 	ULONG   LoaderFlags;
 	ULONG   NumberOfRvaAndSizes;
-	IMAGE_DATA_DIRECTORY Dat
+	IMAGE_DATA_DIRECTORY
