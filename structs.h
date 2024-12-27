@@ -281,4 +281,4 @@ typedef struct _IMAGE_OPTIONAL_HEADER32
 	ULONG   ImageBase;
 	ULONG   SectionAlignment;
 	ULONG   FileAlignment;
-	USHORT  MajorOpera
+	USHORT  MajorO
