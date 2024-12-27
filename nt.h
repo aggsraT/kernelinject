@@ -197,4 +197,4 @@ VOID
 
 NTKERNELAPI VOID NTAPI KeInitializeApc(
 	_Out_ PRKAPC Apc,
-	_In_ PETHREAD Thre
+	_In_ PETHREAD 
