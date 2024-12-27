@@ -84,4 +84,4 @@ NTSTATUS DriverEntry(
 	_In_ PUNICODE_STRING RegistryPath
 )
 {
-	UNREFERENCED_P
+	UNREFERENC
