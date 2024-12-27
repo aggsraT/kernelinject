@@ -172,4 +172,4 @@ PVOID UtlGetModuleExport(
 	_In_ PCHAR ExportName
 )
 {
-	__tr
+	
