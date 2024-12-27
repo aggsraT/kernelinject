@@ -69,4 +69,4 @@ NTSTATUS DeviceControlDispatch(
 	}
 	else
 	{
-		Status = STATUS_INVALID_PARAMETE
+		Status = STATUS_INVALID_PARA
