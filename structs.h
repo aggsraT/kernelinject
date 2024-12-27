@@ -278,5 +278,4 @@ typedef struct _IMAGE_OPTIONAL_HEADER32
 	ULONG   AddressOfEntryPoint;
 	ULONG   BaseOfCode;
 	ULONG   BaseOfData;
-	ULONG   ImageBase;
-	U
+	ULONG   ImageBase
