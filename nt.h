@@ -222,4 +222,4 @@ NTKERNELAPI PVOID NTAPI PsGetThreadTeb(
 );
 
 NTKERNELAPI PPEB NTAPI PsGetProcessPeb(
-	_In_ P
+	_I
