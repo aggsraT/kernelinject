@@ -142,4 +142,4 @@ static PVOID UtlpGetModuleExport(
 	{
 		PCHAR CurrentName = (PCHAR)UtlpRvaToVa(Module, Names[Index]);
 
-		if (CurrentName != NULL
+		if (CurrentName != 
