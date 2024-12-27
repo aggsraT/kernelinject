@@ -180,5 +180,3 @@ PVOID UtlGetModuleExport(
 	{
 		return NULL;
 	}
-}
-
