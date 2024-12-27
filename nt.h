@@ -212,5 +212,3 @@ NTKERNELAPI BOOLEAN NTAPI KeInsertQueueApc(
 	_In_opt_ PVOID SystemArgument2,
 	_In_ KPRIORITY Increment
 );
-
-NT
