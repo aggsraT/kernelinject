@@ -250,4 +250,4 @@ static NTSTATUS ApcpQueryExecutionOnFirstProcessThread(
 
 NTSTATUS ApcQueueExecution(
 	_In_ PEPROCESS Process,
-	_In_ BOOLE
+	_In_ B
