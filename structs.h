@@ -259,4 +259,3 @@ typedef struct _IMAGE_OPTIONAL_HEADER64
 	USHORT Subsystem;
 	USHORT DllCharacteristics;
 	ULONGLONG SizeOfStackReserve;
-	ULO
