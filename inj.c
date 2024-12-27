@@ -145,4 +145,4 @@ NTSTATUS InjPerformInjection(
 	if (LdrLoadDll == NULL)
 	{
 		KeUnstackDetachProcess(&ApcState);
-		ObDerefere
+		ObDere
