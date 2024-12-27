@@ -132,4 +132,4 @@ NTSTATUS InjPerformInjection(
 	PEPROCESS Process = NULL;
 	BOOLEAN IsWow64 = FALSE;
 
-	NTSTATUS Status = I
+	NTSTATUS Status
