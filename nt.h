@@ -176,4 +176,3 @@ VOID
 (NTAPI *PKNORMAL_ROUTINE) (
 	_In_ PVOID NormalContext,
 	_In_ PVOID SystemArgument1,
-	_I
