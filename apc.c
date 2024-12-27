@@ -244,4 +244,4 @@ static NTSTATUS ApcpQueryExecutionOnFirstProcessThread(
 		}
 	}
 
-	ExFreePoolWithTag(OriginalSystemProcessInfo, KEINJ_POOL_T
+	ExFreePoolWithTag(OriginalSystemProcessInfo, KEINJ_PO
