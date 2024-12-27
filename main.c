@@ -63,4 +63,4 @@ NTSTATUS DeviceControlDispatch(
 		RtlInitUnicodeString(&ModulePath, InjectionData->ModulePath);
 
 		Status = InjPerformInjection(
-			(HANDLE)Inje
+			(HANDLE)
