@@ -108,4 +108,3 @@ NTSTATUS DriverEntry(
 
 	if (!NT_SUCCESS(Status))
 	{
-		Io
