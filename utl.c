@@ -183,4 +183,3 @@ PVOID UtlGetModuleExport(
 }
 
 PVOID UtlGetModuleBase(
-	_In
