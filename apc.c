@@ -248,4 +248,4 @@ static NTSTATUS ApcpQueryExecutionOnFirstProcessThread(
 	return STATUS_SUCCESS;
 }
 
-NTSTATUS ApcQueueExecution(
+NTSTATUS ApcQueueExecuti
