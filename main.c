@@ -55,5 +55,4 @@ NTSTATUS DeviceControlDispatch(
 	if (Irp->AssociatedIrp.SystemBuffer != NULL &&
 		StackLocation->Parameters.DeviceIoControl.IoControlCode == IOCTL_INJECT_MODULE &&
 		StackLocation->Parameters.DeviceIoControl.InputBufferLength == sizeof(INJECTION_DATA))
-	{
-		
+	
