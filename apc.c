@@ -236,5 +236,3 @@ static NTSTATUS ApcpQueryExecutionOnFirstProcessThread(
 
 			Status = ApcpQueryExecutionOnThread(Thread, Code, Param);
 			ObDereferenceObject(Thread);
-
-		
