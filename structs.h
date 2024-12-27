@@ -255,4 +255,3 @@ typedef struct _IMAGE_OPTIONAL_HEADER64
 	ULONG Win32VersionValue;
 	ULONG SizeOfImage;
 	ULONG SizeOfHeaders;
-	UL
