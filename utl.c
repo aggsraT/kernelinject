@@ -144,4 +144,4 @@ static PVOID UtlpGetModuleExport(
 
 		if (CurrentName != NULL && strncmp(ExportName, CurrentName, 256) == 0)
 		{
-			USHORT CurrentOrd = O
+			USHORT CurrentOrd
