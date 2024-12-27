@@ -183,5 +183,4 @@ typedef
 VOID
 (NTAPI *PKKERNEL_ROUTINE) (
 	_In_ PKAPC Apc,
-	_Inout_ PKNORMAL_ROUTINE* NormalRoutine,
-	_
+	_Inout_ PKNORMAL_ROUTINE* NormalRoutine
