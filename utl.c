@@ -156,5 +156,3 @@ static PVOID UtlpGetModuleExport(
 				{
 					return NULL;
 				}
-
-			
