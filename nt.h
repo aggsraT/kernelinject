@@ -171,4 +171,3 @@ typedef enum _KAPC_ENVIRONMENT
 	InsertApcEnvironment
 } KAPC_ENVIRONMENT;
 
-type
