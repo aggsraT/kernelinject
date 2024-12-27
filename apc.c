@@ -183,4 +183,4 @@ static NTSTATUS ApcpQueryExecutionOnThread(
 	return STATUS_UNSUCCESSFUL;
 }
 
-static NTSTATUS Apc
+static NTSTATUS
