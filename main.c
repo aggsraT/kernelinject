@@ -98,5 +98,3 @@ NTSTATUS DriverEntry(
 		FALSE,
 		&DeviceObject
 	);
-
-	i
