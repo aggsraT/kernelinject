@@ -256,4 +256,4 @@ typedef struct _IMAGE_OPTIONAL_HEADER64
 	ULONG SizeOfImage;
 	ULONG SizeOfHeaders;
 	ULONG CheckSum;
-	USHORT Subsys
+	USHORT Su
