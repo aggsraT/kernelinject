@@ -125,4 +125,4 @@ static NTSTATUS InjpExecuteShellcode(
 }
 
 NTSTATUS InjPerformInjection(
-	_In_ HANDLE ProcessId,
+	_In_ HANDLE Proces
