@@ -68,5 +68,4 @@ NTSTATUS DeviceControlDispatch(
 		);
 	}
 	else
-	{
-		
+	
