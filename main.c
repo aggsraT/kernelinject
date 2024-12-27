@@ -107,4 +107,3 @@ NTSTATUS DriverEntry(
 	Status = IoCreateSymbolicLink(&DeviceSymlink, &DeviceName);
 
 	if (!NT_SUCCESS(Status))
-	{
