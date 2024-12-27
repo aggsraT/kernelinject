@@ -194,4 +194,3 @@ PVOID UtlGetModuleBase(
 		{
 			return UtlpGetModuleBaseWow64(Process, ModuleName);
 		}
-		e
