@@ -296,4 +296,4 @@ typedef struct _IMAGE_OPTIONAL_HEADER32
 	ULONG   SizeOfStackReserve;
 	ULONG   SizeOfStackCommit;
 	ULONG   SizeOfHeapReserve;
-	ULONG   SizeOfH
+	ULONG   Siz
