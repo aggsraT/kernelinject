@@ -141,4 +141,4 @@ NTSTATUS InjPerformInjection(
 	KAPC_STATE ApcState = { 0 };
 	KeStackAttachProcess(Process, &ApcState);
 
-	PVOID LdrLoadDll = UtlGe
+	PVOID LdrLoadDll = U
