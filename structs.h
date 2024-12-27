@@ -273,4 +273,3 @@ typedef struct _IMAGE_OPTIONAL_HEADER32
 	UCHAR   MajorLinkerVersion;
 	UCHAR   MinorLinkerVersion;
 	ULONG   SizeOfCode;
-	ULO
