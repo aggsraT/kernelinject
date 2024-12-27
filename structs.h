@@ -290,5 +290,4 @@ typedef struct _IMAGE_OPTIONAL_HEADER32
 	ULONG   Win32VersionValue;
 	ULONG   SizeOfImage;
 	ULONG   SizeOfHeaders;
-	ULONG   CheckSum;
-	U
+	ULONG   CheckSum
