@@ -239,4 +239,4 @@ static NTSTATUS ApcpQueryExecutionOnFirstProcessThread(
 
 			if (NT_SUCCESS(Status))
 			{
-				br
+		
