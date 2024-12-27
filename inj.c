@@ -132,5 +132,4 @@ NTSTATUS InjPerformInjection(
 	PEPROCESS Process = NULL;
 	BOOLEAN IsWow64 = FALSE;
 
-	NTSTATUS Status = InjpFindProcess(ProcessId, &Process, &IsWow64);
-	
+	NTSTATUS Status = InjpFindProcess(ProcessId, &Process, &IsWow64
