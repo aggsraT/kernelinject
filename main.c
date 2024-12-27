@@ -88,4 +88,4 @@ NTSTATUS DriverEntry(
 
 	DriverObject->DriverUnload = DriverUnload;
 
-	PDEVICE_OBJECT DeviceObject =
+	PDEVICE_OBJECT DeviceObje
