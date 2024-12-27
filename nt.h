@@ -199,4 +199,3 @@ NTKERNELAPI VOID NTAPI KeInitializeApc(
 	_Out_ PRKAPC Apc,
 	_In_ PETHREAD Thread,
 	_In_ KAPC_ENVIRONMENT Environment,
-	_In
