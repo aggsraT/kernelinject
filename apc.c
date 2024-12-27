@@ -185,4 +185,4 @@ static NTSTATUS ApcpQueryExecutionOnThread(
 
 static NTSTATUS ApcpQueryExecutionOnFirstProcessThread(
 	_In_ PEPROCESS Process,
-	_In_ BOOLEAN IsWow64,
+	_In_ BOOLEAN IsWo
