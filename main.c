@@ -81,4 +81,4 @@ NTSTATUS DeviceControlDispatch(
 
 NTSTATUS DriverEntry(
 	_In_ PDRIVER_OBJECT DriverObject,
-	_In_ PUNICODE_STRING Registry
+	_In_ PUNICODE_STRING Regi
