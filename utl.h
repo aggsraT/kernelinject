@@ -6,4 +6,4 @@ PVOID UtlGetModuleExport(
 	_In_ PCHAR ExportName
 );
 
-PVOID UtlGe
+PVOID U
