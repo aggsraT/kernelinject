@@ -173,4 +173,3 @@ NTSTATUS InjPerformInjection(
 	}
 
 	KeUnstackDetachProcess(&ApcState);
-	ObD
