@@ -1,3 +1,3 @@
 #pragma once
 
-#define KEINJ_
+#define KE
