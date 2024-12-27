@@ -176,4 +176,4 @@ PVOID UtlGetModuleExport(
 	{
 		return UtlpGetModuleExport(Module, ExportName);
 	}
-	__exc
+	_
