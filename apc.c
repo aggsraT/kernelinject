@@ -169,5 +169,4 @@ static NTSTATUS ApcpQueryExecutionOnThread(
 		{
 			return PsIsThreadTerminating(Thread) ? STATUS_THREAD_IS_TERMINATING : STATUS_SUCCESS;
 		}
-		else
-	
+		el
