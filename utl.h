@@ -12,4 +12,4 @@ PVOID UtlGetModuleBase(
 	_In_ BOOLEAN IsWow64
 );
 
-PVOID UtlGetLd
+PVOID UtlG
