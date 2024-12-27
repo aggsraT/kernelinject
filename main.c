@@ -90,4 +90,4 @@ NTSTATUS DriverEntry(
 
 	PDEVICE_OBJECT DeviceObject = NULL;
 	NTSTATUS Status = IoCreateDevice(
-		DriverObject
+		DriverOb
