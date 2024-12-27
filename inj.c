@@ -142,4 +142,4 @@ NTSTATUS InjPerformInjection(
 	KeStackAttachProcess(Process, &ApcState);
 
 	PVOID LdrLoadDll = UtlGetLdrLoadDll(Process, IsWow64);
-	if (
+	
