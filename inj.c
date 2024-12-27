@@ -109,4 +109,4 @@ static NTSTATUS InjpPrepareShellcode(
 	}
 
 	*Shellcode = Allocation;
-	*ShellcodeParam = (PVOID)((PUCHAR)Allocation + 
+	*ShellcodeParam = (PVOID)((PUCHAR)Allocatio
