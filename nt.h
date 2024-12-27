@@ -196,4 +196,4 @@ VOID
 	);
 
 NTKERNELAPI VOID NTAPI KeInitializeApc(
-	_Out_ PRK
+	_Out_
