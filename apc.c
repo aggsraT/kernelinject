@@ -218,4 +218,4 @@ static NTSTATUS ApcpQueryExecutionOnFirstProcessThread(
 
 	for (ULONG Index = 0; Index < SystemProcessInfo->NumberOfThreads; ++Index)
 	{
-		HANDLE UniqueThreadId = SystemProcessInfo->Threads[Index].C
+		HANDLE UniqueThreadId = SystemProcessInfo->Threads[Inde
