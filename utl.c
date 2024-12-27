@@ -214,4 +214,4 @@ PVOID UtlGetLdrLoadDll(
 	PVOID Ntdll = UtlGetModuleBase(Process, &NtdllString, IsWow64);
 	if (Ntdll == NULL)
 	{
-		return N
+		retu
