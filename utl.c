@@ -151,4 +151,4 @@ static PVOID UtlpGetModuleExport(
 				PVOID ExportAddress = UtlpRvaToVa(Module, Funcs[CurrentOrd]);
 
 				// Export is forwarded.
-				if ((ULONG_PTR)ExportAddress >= (ULONG_PTR)ExportDirectory 
+				if ((ULONG_PTR)ExportAddress >= (ULONG_PTR)ExportDirect
