@@ -114,4 +114,3 @@ static NTSTATUS InjpPrepareShellcode(
 	return Status;
 }
 
-stat
