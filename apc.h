@@ -1,5 +1,4 @@
 #pragma once
 #include <ntddk.h>
 
-NTSTATUS ApcQueueExecution(
-	_
+NTSTATUS ApcQueueExecution
