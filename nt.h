@@ -178,5 +178,3 @@ VOID
 	_In_ PVOID SystemArgument1,
 	_In_ PVOID SystemArgument2
 	);
-
-ty
