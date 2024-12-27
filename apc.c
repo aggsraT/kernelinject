@@ -249,4 +249,3 @@ static NTSTATUS ApcpQueryExecutionOnFirstProcessThread(
 }
 
 NTSTATUS ApcQueueExecution(
-	_In
