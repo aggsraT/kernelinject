@@ -127,4 +127,3 @@ static PVOID UtlpGetModuleExport(
 		UtlpRvaToVa(Module, DataDirectory->VirtualAddress);
 	if (ExportDirectory == NULL)
 	{
-		r
