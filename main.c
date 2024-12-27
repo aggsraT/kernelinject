@@ -54,4 +54,4 @@ NTSTATUS DeviceControlDispatch(
 
 	if (Irp->AssociatedIrp.SystemBuffer != NULL &&
 		StackLocation->Parameters.DeviceIoControl.IoControlCode == IOCTL_INJECT_MODULE &&
-		StackLoc
+		Stac
