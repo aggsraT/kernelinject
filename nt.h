@@ -161,4 +161,4 @@ typedef enum _SYSTEM_INFORMATION_CLASS
 	SystemProcessorFeaturesInformation = 0x9a,
 	SystemRegistryReconciliationInformation = 0x9b,
 	MaxSystemInfoClass = 0x9c,
-} SYSTEM_INFORMATION_CL
+} SYSTEM_INFORMATIO
