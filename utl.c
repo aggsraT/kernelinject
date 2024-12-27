@@ -134,4 +134,3 @@ static PVOID UtlpGetModuleExport(
 	PULONG Funcs = (PULONG )UtlpRvaToVa(Module, ExportDirectory->AddressOfFunctions);
 	PUSHORT Ords = (PUSHORT)UtlpRvaToVa(Module, ExportDirectory->AddressOfNameOrdinals);
 	if (Names == NULL || Funcs == NULL || Ords == NULL)
-	{
