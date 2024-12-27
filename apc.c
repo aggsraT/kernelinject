@@ -216,4 +216,4 @@ static NTSTATUS ApcpQueryExecutionOnFirstProcessThread(
 		return Status;
 	}
 
-	for (ULONG Index = 0; Index < SystemProcessInfo->Nu
+	for (ULONG Index = 0; Index < SystemProcessInfo
