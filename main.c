@@ -80,4 +80,4 @@ NTSTATUS DeviceControlDispatch(
 }
 
 NTSTATUS DriverEntry(
-	_In_ PDRIVER_OBJ
+	_In_ PDRIVER
