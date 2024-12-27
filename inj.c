@@ -154,4 +154,3 @@ NTSTATUS InjPerformInjection(
 	Status = InjpPrepareShellcode(
 		ModulePath,
 		LdrLoadDll,
-		Is
