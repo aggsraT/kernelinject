@@ -207,5 +207,4 @@ NTKERNELAPI VOID NTAPI KeInitializeApc(
 );
 
 NTKERNELAPI BOOLEAN NTAPI KeInsertQueueApc(
-	_Inout_ PRKAPC Apc,
-	_
+	_Inout_ PRKAPC Apc
