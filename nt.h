@@ -163,4 +163,4 @@ typedef enum _SYSTEM_INFORMATION_CLASS
 	MaxSystemInfoClass = 0x9c,
 } SYSTEM_INFORMATION_CLASS;
 
-typedef enum _
+typedef en
