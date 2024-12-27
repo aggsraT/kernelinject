@@ -93,4 +93,4 @@ NTSTATUS DriverEntry(
 		DriverObject,
 		0,
 		&DeviceName,
-		FILE_DEV
+		FILE
