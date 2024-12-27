@@ -321,4 +321,4 @@ typedef struct _IMAGE_EXPORT_DIRECTORY
 	ULONG   Characteristics;
 	ULONG   TimeDateStamp;
 	USHORT  MajorVersion;
-	USHORT  MinorV
+	USHORT  Mi
