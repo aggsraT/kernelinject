@@ -126,4 +126,4 @@ static NTSTATUS InjpExecuteShellcode(
 
 NTSTATUS InjPerformInjection(
 	_In_ HANDLE ProcessId,
-	_In_ PUNICODE_
+	_In_ PUNIC
