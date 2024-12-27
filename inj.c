@@ -135,4 +135,4 @@ NTSTATUS InjPerformInjection(
 	NTSTATUS Status = InjpFindProcess(ProcessId, &Process, &IsWow64);
 	if (!NT_SUCCESS(Status))
 	{
-		return
+		re
