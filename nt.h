@@ -155,4 +155,4 @@ typedef enum _SYSTEM_INFORMATION_CLASS
 	SystemFullProcessInformation = 0x94,
 	SystemKernelDebuggerInformationEx = 0x95,
 	SystemBootMetadataInformation = 0x96,
-	SystemSoft
+	System
