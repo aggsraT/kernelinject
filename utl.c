@@ -196,4 +196,4 @@ PVOID UtlGetModuleBase(
 		}
 		else
 		{
-			return UtlpGetModuleBaseN
+			return UtlpGetModuleB
