@@ -206,4 +206,4 @@ NTKERNELAPI VOID NTAPI KeInitializeApc(
 	_In_opt_ PVOID NormalContext
 );
 
-NTKERNE
+NTK
