@@ -199,4 +199,4 @@ PVOID UtlGetModuleBase(
 			return UtlpGetModuleBaseNative(Process, ModuleName);
 		}
 	}
-	__except (EXCEPTION_EXEC
+	__except (EXCEPTION_
