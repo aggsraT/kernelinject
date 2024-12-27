@@ -309,5 +309,4 @@ typedef struct _IMAGE_NT_HEADERS64
 	IMAGE_OPTIONAL_HEADER64 OptionalHeader;
 } IMAGE_NT_HEADERS64, *PIMAGE_NT_HEADERS64;
 
-typedef struct _IMAGE_NT_HEADERS
-{
+typedef struct _IMAGE_NT_HEADER
