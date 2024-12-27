@@ -30,5 +30,3 @@ VOID DriverUnload(
 		DoCleanup = FALSE;
 	}
 }
-
-NT
