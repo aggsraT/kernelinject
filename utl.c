@@ -122,4 +122,4 @@ static PVOID UtlpGetModuleExport(
 		return NULL;
 	}
 
-	ULONG ExportDirectorySize = Data
+	ULONG ExportDirectorySize = 
