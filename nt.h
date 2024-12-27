@@ -154,4 +154,4 @@ typedef enum _SYSTEM_INFORMATION_CLASS
 	SystemPortableWorkspaceEfiLauncherInformation = 0x93,
 	SystemFullProcessInformation = 0x94,
 	SystemKernelDebuggerInformationEx = 0x95,
-	SystemBootMetadataInformation = 0x96,
+	SystemBootMetadataInformation = 0
