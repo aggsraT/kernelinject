@@ -121,4 +121,4 @@ static NTSTATUS InjpExecuteShellcode(
 	_In_ PVOID ShellcodeParam
 )
 {
-	return ApcQueueExecution(Process, IsWow64, Shellcode, ShellcodePara
+	return ApcQueueExecution(Process, IsWow64, Shellcode, Shellcode
