@@ -269,4 +269,3 @@ typedef struct _IMAGE_OPTIONAL_HEADER64
 
 typedef struct _IMAGE_OPTIONAL_HEADER32
 {
-	US
