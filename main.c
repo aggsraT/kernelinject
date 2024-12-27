@@ -112,4 +112,4 @@ NTSTATUS DriverEntry(
 		return STATUS_UNSUCCESSFUL;
 	}
 
-	DoCleanup = TRUE;
+	DoCleanup = T
