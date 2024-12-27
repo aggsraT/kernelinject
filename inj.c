@@ -129,4 +129,4 @@ NTSTATUS InjPerformInjection(
 	_In_ PUNICODE_STRING ModulePath
 )
 {
-	PEPROCESS Process = N
+	PEPROCESS Process
