@@ -99,4 +99,4 @@ static NTSTATUS InjpPrepareShellcode(
 	RtlCopyMemory((PUCHAR)Allocation + ShellcodeSize, String, StringSize);
 	RtlCopyMemory((PUCHAR)Allocation + ShellcodeSize + StringSize, ModulePath->Buffer, ModulePath->Length);
 
-	if (IsWow64
+	if (IsW
