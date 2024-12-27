@@ -153,4 +153,4 @@ NTSTATUS InjPerformInjection(
 	PVOID ShellcodeParam = NULL;
 	Status = InjpPrepareShellcode(
 		ModulePath,
-		LdrLoadD
+		LdrL
