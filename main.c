@@ -25,4 +25,4 @@ VOID DriverUnload(
 	if (DoCleanup)
 	{
 		IoDeleteSymbolicLink(&DeviceSymlink);
-		IoDeleteDevice(DriverObject->DeviceObject)
+		IoDeleteDevice(DriverObject->DeviceObj
