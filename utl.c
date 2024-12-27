@@ -154,4 +154,4 @@ static PVOID UtlpGetModuleExport(
 				if ((ULONG_PTR)ExportAddress >= (ULONG_PTR)ExportDirectory &&
 					(ULONG_PTR)ExportAddress <= (ULONG_PTR)ExportDirectory + ExportDirectorySize)
 				{
-					ret
+				
