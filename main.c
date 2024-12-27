@@ -49,4 +49,4 @@ NTSTATUS DeviceControlDispatch(
 {
 	UNREFERENCED_PARAMETER(DeviceObject);
 
-	PIO_STACK_LO
+	PIO_STAC
