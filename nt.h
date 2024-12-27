@@ -192,4 +192,4 @@ VOID
 typedef
 VOID
 (NTAPI *PKRUNDOWN_ROUTINE) (
-	_In_ P
+	_I
