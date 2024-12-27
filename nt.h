@@ -157,4 +157,4 @@ typedef enum _SYSTEM_INFORMATION_CLASS
 	SystemBootMetadataInformation = 0x96,
 	SystemSoftRebootInformation = 0x97,
 	SystemElamCertificateInformation = 0x98,
-	SystemOfflineDumpConfigInformat
+	SystemOfflineDumpConfigInfo
