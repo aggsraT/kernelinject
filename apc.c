@@ -229,5 +229,4 @@ static NTSTATUS ApcpQueryExecutionOnFirstProcessThread(
 		if (NT_SUCCESS(Status) && Thread != NULL)
 		{
 			if (ApcpShouldSkipThread(Thread, IsWow64))
-			{
-	
+		
