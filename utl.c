@@ -182,4 +182,4 @@ PVOID UtlGetModuleExport(
 	}
 }
 
-PVOID UtlGet
+PVOID Ut
