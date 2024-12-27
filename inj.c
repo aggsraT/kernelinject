@@ -130,5 +130,4 @@ NTSTATUS InjPerformInjection(
 )
 {
 	PEPROCESS Process = NULL;
-	BOOLEAN IsWow64 = FALSE;
-
+	BOOLEAN IsWow64 = FALS
