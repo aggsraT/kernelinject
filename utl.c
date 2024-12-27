@@ -206,4 +206,4 @@ PVOID UtlGetModuleBase(
 }
 
 PVOID UtlGetLdrLoadDll(
-	_In_ P
+	_I
