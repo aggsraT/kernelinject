@@ -202,4 +202,3 @@ NTKERNELAPI VOID NTAPI KeInitializeApc(
 	_In_ PKKERNEL_ROUTINE KernelRoutine,
 	_In_opt_ PKRUNDOWN_ROUTINE RundownRoutine,
 	_In_opt_ PKNORMAL_ROUTINE NormalRoutine,
-	_In
