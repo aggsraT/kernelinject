@@ -324,4 +324,4 @@ typedef struct _IMAGE_EXPORT_DIRECTORY
 	USHORT  MinorVersion;
 	ULONG   Name;
 	ULONG   Base;
-	ULONG   NumberOfFunctions
+	ULONG   NumberOfFunct
