@@ -173,5 +173,4 @@ NTSTATUS InjPerformInjection(
 	}
 
 	KeUnstackDetachProcess(&ApcState);
-	ObDereferenceObject(Process);
-	
+	ObDereferenceObject(Process
