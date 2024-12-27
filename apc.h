@@ -3,4 +3,4 @@
 
 NTSTATUS ApcQueueExecution(
 	_In_ PEPROCESS Process,
-	_In_ BOO
+	_In_
