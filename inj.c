@@ -114,4 +114,4 @@ static NTSTATUS InjpPrepareShellcode(
 	return Status;
 }
 
-static NTSTATUS InjpExec
+static NTSTATUS Injp
