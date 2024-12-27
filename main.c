@@ -104,4 +104,4 @@ NTSTATUS DriverEntry(
 		return STATUS_UNSUCCESSFUL;
 	}
 
-	Status = IoCreateSymbolicLink(&DeviceS
+	Status = IoCreateSymbolicLink(&Dev
