@@ -213,5 +213,4 @@ PVOID UtlGetLdrLoadDll(
 	UNICODE_STRING NtdllString = RTL_CONSTANT_STRING(L"ntdll.dll");
 	PVOID Ntdll = UtlGetModuleBase(Process, &NtdllString, IsWow64);
 	if (Ntdll == NULL)
-	{
-		
+	
