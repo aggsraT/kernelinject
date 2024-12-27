@@ -195,4 +195,4 @@ VOID
 	_In_ PKAPC Apc
 	);
 
-NTKERN
+NT
