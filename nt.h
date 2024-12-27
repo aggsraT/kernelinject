@@ -175,4 +175,3 @@ typedef
 VOID
 (NTAPI *PKNORMAL_ROUTINE) (
 	_In_ PVOID NormalContext,
-	_In
