@@ -139,4 +139,4 @@ NTSTATUS InjPerformInjection(
 	}
 
 	KAPC_STATE ApcState = { 0 };
-	KeStackA
+	KeSt
