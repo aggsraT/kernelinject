@@ -176,4 +176,4 @@ static NTSTATUS ApcpQueryExecutionOnThread(
 	}
 	else
 	{
-		ExFreePoolWithTag(ExecutionApc, KEINJ
+		ExFreePoolWithTag(ExecutionApc, K
