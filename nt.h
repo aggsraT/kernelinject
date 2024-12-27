@@ -181,4 +181,4 @@ VOID
 
 typedef
 VOID
-(NTAPI *PKKER
+(NTAPI *P
