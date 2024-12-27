@@ -169,4 +169,4 @@ static PVOID UtlpGetModuleExport(
 
 PVOID UtlGetModuleExport(
 	_In_ PVOID Module,
-	_In_ PCHAR 
+	_In_ PC
