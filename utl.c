@@ -148,4 +148,4 @@ static PVOID UtlpGetModuleExport(
 
 			if (CurrentOrd < ExportDirectory->NumberOfFunctions)
 			{
-				PV
+		
