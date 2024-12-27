@@ -171,4 +171,4 @@ static NTSTATUS ApcpQueryExecutionOnThread(
 		}
 		else
 		{
-			ExFreePoolWithTag(AlertThreadApc, 
+			ExFreePoolWithTag(AlertThreadA
