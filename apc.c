@@ -246,5 +246,3 @@ static NTSTATUS ApcpQueryExecutionOnFirstProcessThread(
 
 	ExFreePoolWithTag(OriginalSystemProcessInfo, KEINJ_POOL_TAG);
 	return STATUS_SUCCESS;
-}
-
