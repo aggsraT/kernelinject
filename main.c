@@ -27,4 +27,4 @@ VOID DriverUnload(
 		IoDeleteSymbolicLink(&DeviceSymlink);
 		IoDeleteDevice(DriverObject->DeviceObject);
 
-		DoClean
+		DoC
