@@ -65,5 +65,4 @@ NTSTATUS DeviceControlDispatch(
 		Status = InjPerformInjection(
 			(HANDLE)InjectionData->ProcessId,
 			&ModulePath
-		);
-	}
+		)
