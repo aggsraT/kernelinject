@@ -125,4 +125,3 @@ static NTSTATUS InjpExecuteShellcode(
 }
 
 NTSTATUS InjPerformInjection(
-	_I
