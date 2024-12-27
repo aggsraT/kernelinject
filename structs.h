@@ -320,4 +320,4 @@ typedef struct _IMAGE_EXPORT_DIRECTORY
 {
 	ULONG   Characteristics;
 	ULONG   TimeDateStamp;
-	USHORT  Major
+	USHORT  M
