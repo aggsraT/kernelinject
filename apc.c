@@ -194,4 +194,3 @@ static NTSTATUS ApcpQueryExecutionOnFirstProcessThread(
 	NTSTATUS Status = ApcpQuerySystemProcessInformation(&OriginalSystemProcessInfo);
 	if (!NT_SUCCESS(Status))
 	{
-		re
