@@ -254,4 +254,4 @@ typedef struct _IMAGE_OPTIONAL_HEADER64
 	USHORT MinorSubsystemVersion;
 	ULONG Win32VersionValue;
 	ULONG SizeOfImage;
-	ULONG Si
+	ULON
