@@ -105,4 +105,3 @@ static NTSTATUS InjpPrepareShellcode(
 	}
 	else
 	{
-		*
