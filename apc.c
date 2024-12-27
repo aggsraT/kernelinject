@@ -171,4 +171,4 @@ static NTSTATUS ApcpQueryExecutionOnThread(
 		}
 		else
 		{
-			ExFreePool
+			ExFree
