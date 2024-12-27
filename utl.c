@@ -168,4 +168,3 @@ static PVOID UtlpGetModuleExport(
 }
 
 PVOID UtlGetModuleExport(
-	_In
