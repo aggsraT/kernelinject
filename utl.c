@@ -196,4 +196,4 @@ PVOID UtlGetModuleBase(
 		}
 		else
 		{
-			retur
+			r
