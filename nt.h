@@ -167,4 +167,4 @@ typedef enum _KAPC_ENVIRONMENT
 {
 	OriginalApcEnvironment,
 	AttachedApcEnvironment,
-	CurrentApcEnvi
+	CurrentApc
