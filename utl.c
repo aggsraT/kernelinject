@@ -131,4 +131,4 @@ static PVOID UtlpGetModuleExport(
 	}
 
 	PULONG Names = (PULONG )UtlpRvaToVa(Module, ExportDirectory->AddressOfNames);
-	PULO
+	
