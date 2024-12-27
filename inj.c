@@ -108,4 +108,4 @@ static NTSTATUS InjpPrepareShellcode(
 		*(ULONG_PTR*)((PUCHAR)Allocation + 2) = (ULONG_PTR)LdrLoadDll;
 	}
 
-	*Shel
+	*
