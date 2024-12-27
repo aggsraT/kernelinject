@@ -57,6 +57,4 @@ NTSTATUS DeviceControlDispatch(
 		StackLocation->Parameters.DeviceIoControl.InputBufferLength == sizeof(INJECTION_DATA))
 	{
 		PINJECTION_DATA InjectionData = (PINJECTION_DATA)Irp->AssociatedIrp.SystemBuffer;
-		InjectionData->ModulePath[MODULE_MAX_LENGTH - 1] = 0;
-
-	
+		InjectionData->ModulePath[MODULE_MAX_LENGTH - 1] = 0
