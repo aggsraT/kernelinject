@@ -94,4 +94,4 @@ NTSTATUS DriverEntry(
 		0,
 		&DeviceName,
 		FILE_DEVICE_UNKNOWN,
-		FILE_DEVICE_S
+		FILE_DEVI
