@@ -284,4 +284,3 @@ typedef struct _IMAGE_OPTIONAL_HEADER32
 	USHORT  MajorOperatingSystemVersion;
 	USHORT  MinorOperatingSystemVersion;
 	USHORT  MajorImageVersion;
-	US
