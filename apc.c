@@ -197,4 +197,4 @@ static NTSTATUS ApcpQueryExecutionOnFirstProcessThread(
 		return Status;
 	}
 
-	PSYSTEM_PROCES
+	PSYSTEM_PR
