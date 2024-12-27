@@ -93,4 +93,4 @@ static NTSTATUS InjpPrepareShellcode(
 	String32.Buffer = (ULONG)(ULONG_PTR)((PUCHAR)Allocation + ShellcodeSize + sizeof(String32));
 
 	PVOID  String     = IsWow64 ? (PVOID)&String32 : (PVOID)&String64;
-	SIZE_T StringSize = IsWow64 ? sizeof(String32) : sizeof(String64)
+	SIZE_T StringSize = IsWow64 ? sizeof(String32) : sizeof(Strin
