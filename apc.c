@@ -221,5 +221,4 @@ static NTSTATUS ApcpQueryExecutionOnFirstProcessThread(
 		HANDLE UniqueThreadId = SystemProcessInfo->Threads[Index].ClientId.UniqueThread;
 		if (UniqueThreadId == PsGetCurrentThreadId())
 		{
-			continue;
-	
+			continu
