@@ -148,4 +148,4 @@ static PVOID UtlpGetModuleExport(
 
 			if (CurrentOrd < ExportDirectory->NumberOfFunctions)
 			{
-				PVOID ExportAddress = UtlpRvaToVa(Module, 
+				PVOID ExportAddress = UtlpRvaToVa(Modu
