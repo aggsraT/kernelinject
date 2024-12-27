@@ -215,4 +215,3 @@ PVOID UtlGetLdrLoadDll(
 	if (Ntdll == NULL)
 	{
 		return NULL;
-	}
