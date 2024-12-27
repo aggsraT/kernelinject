@@ -241,5 +241,4 @@ static NTSTATUS ApcpQueryExecutionOnFirstProcessThread(
 			{
 				break;
 			}
-		}
-	}
+		
