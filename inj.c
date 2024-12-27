@@ -136,4 +136,3 @@ NTSTATUS InjPerformInjection(
 	if (!NT_SUCCESS(Status))
 	{
 		return Status;
-	}
