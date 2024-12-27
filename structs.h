@@ -276,4 +276,3 @@ typedef struct _IMAGE_OPTIONAL_HEADER32
 	ULONG   SizeOfInitializedData;
 	ULONG   SizeOfUninitializedData;
 	ULONG   AddressOfEntryPoint;
-	ULO
