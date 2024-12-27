@@ -166,4 +166,4 @@ NTSTATUS InjPerformInjection(
 		return Status;
 	}
 
-	Status = InjpExecuteShellcode(Process, IsWow64, 
+	Status = InjpExecuteShellcode(Process, IsWow
