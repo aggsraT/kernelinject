@@ -188,4 +188,3 @@ PVOID UtlGetModuleBase(
 	_In_ BOOLEAN IsWow64
 )
 {
-	__
