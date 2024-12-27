@@ -69,4 +69,4 @@ NTSTATUS DeviceControlDispatch(
 	}
 	else
 	{
-		Status = STATUS_INVALID_PARA
+		Status = STATUS_INVALID_
