@@ -190,5 +190,4 @@ PVOID UtlGetModuleBase(
 {
 	__try
 	{
-		if (IsWow64)
-		
+		if (IsWow64
