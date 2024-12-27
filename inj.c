@@ -150,4 +150,4 @@ NTSTATUS InjPerformInjection(
 	}
 
 	PVOID Shellcode = NULL;
-	PVOID Shellco
+	PVOID She
