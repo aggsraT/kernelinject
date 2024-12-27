@@ -243,5 +243,3 @@ static NTSTATUS ApcpQueryExecutionOnFirstProcessThread(
 			}
 		}
 	}
-
-	E
