@@ -204,5 +204,3 @@ PVOID UtlGetModuleBase(
 		return NULL;
 	}
 }
-
-PVO
