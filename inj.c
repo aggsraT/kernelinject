@@ -89,4 +89,4 @@ static NTSTATUS InjpPrepareShellcode(
 
 	String64.Length = String64.MaximumLength = ModulePath->Length;
 	String32.Length = String32.MaximumLength = ModulePath->Length;
-	String64.Buffer = (PWSTR)(ULONG_PTR)((PUCHAR)Allocation + ShellcodeSize + sizeof(Strin
+	String64.Buffer = (PWSTR)(ULONG_PTR)((PUCHAR)Allocation + ShellcodeSize + sizeof(S
