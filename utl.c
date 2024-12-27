@@ -190,4 +190,4 @@ PVOID UtlGetModuleBase(
 {
 	__try
 	{
-		if 
+	
