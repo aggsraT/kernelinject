@@ -43,4 +43,3 @@ NTSTATUS DeviceDefaultDispatch(
 }
 
 NTSTATUS DeviceControlDispatch(
-	_I
