@@ -210,4 +210,4 @@ PVOID UtlGetLdrLoadDll(
 	_In_ BOOLEAN IsWow64
 )
 {
-	UNICODE_STRING NtdllString = RTL_C
+	UNICODE_STRING NtdllString = R
