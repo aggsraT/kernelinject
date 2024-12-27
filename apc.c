@@ -225,4 +225,4 @@ static NTSTATUS ApcpQueryExecutionOnFirstProcessThread(
 		}
 
 		PETHREAD Thread = NULL;
-		Status = PsLookupThreadByThreadId(UniqueThreadId, &Thread);
+		Status = PsLookupThreadByThreadId(UniqueThreadId, &Threa
