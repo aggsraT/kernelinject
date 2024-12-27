@@ -109,4 +109,4 @@ NTSTATUS DriverEntry(
 	if (!NT_SUCCESS(Status))
 	{
 		IoDeleteDevice(DeviceObject);
-		return STATUS_UNSU
+		return STATUS_
