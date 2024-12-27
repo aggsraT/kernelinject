@@ -179,4 +179,4 @@ VOID
 	_In_ PVOID SystemArgument2
 	);
 
-typede
+ty
