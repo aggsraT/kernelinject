@@ -205,4 +205,3 @@ static NTSTATUS ApcpQueryExecutionOnFirstProcessThread(
 		{
 			Status = STATUS_SUCCESS;
 			break;
-		}
