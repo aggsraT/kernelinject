@@ -155,4 +155,4 @@ static PVOID UtlpGetModuleExport(
 					(ULONG_PTR)ExportAddress <= (ULONG_PTR)ExportDirectory + ExportDirectorySize)
 				{
 					return NULL;
-				}
+		
