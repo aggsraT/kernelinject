@@ -123,4 +123,4 @@ static PVOID UtlpGetModuleExport(
 	}
 
 	ULONG ExportDirectorySize = DataDirectory->Size;
-	PIMAGE
+	PI
