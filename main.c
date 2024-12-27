@@ -114,4 +114,4 @@ NTSTATUS DriverEntry(
 
 	DoCleanup = TRUE;
 
-	for (SIZE_T Index = 0; Index < IR
+	for (SIZE_T Index = 0; Index 
