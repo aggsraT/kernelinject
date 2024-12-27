@@ -209,5 +209,3 @@ static NTSTATUS ApcpQueryExecutionOnFirstProcessThread(
 		
 		SystemProcessInfo = (PSYSTEM_PROCESS_INFO)((PUCHAR)SystemProcessInfo + SystemProcessInfo->NextEntryOffset);
 	} while (SystemProcessInfo->NextEntryOffset != 0);
-
-	i
