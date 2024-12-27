@@ -294,4 +294,4 @@ typedef struct _IMAGE_OPTIONAL_HEADER32
 	USHORT  Subsystem;
 	USHORT  DllCharacteristics;
 	ULONG   SizeOfStackReserve;
-	ULONG   SizeOfS
+	ULONG   Siz
