@@ -158,4 +158,4 @@ typedef enum _SYSTEM_INFORMATION_CLASS
 	SystemSoftRebootInformation = 0x97,
 	SystemElamCertificateInformation = 0x98,
 	SystemOfflineDumpConfigInformation = 0x99,
-	SystemProcessorFeaturesInformat
+	SystemProcessorFeaturesInfo
