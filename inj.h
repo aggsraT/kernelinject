@@ -2,4 +2,4 @@
 #include <ntddk.h>
 
 NTSTATUS InjPerformInjection(
-	_In_ HANDL
+	_In_ H
