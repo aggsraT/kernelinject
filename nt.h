@@ -160,4 +160,4 @@ typedef enum _SYSTEM_INFORMATION_CLASS
 	SystemOfflineDumpConfigInformation = 0x99,
 	SystemProcessorFeaturesInformation = 0x9a,
 	SystemRegistryReconciliationInformation = 0x9b,
-	MaxSystemInfoClass
+	MaxSystemInfoC
