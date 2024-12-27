@@ -234,4 +234,4 @@ static NTSTATUS ApcpQueryExecutionOnFirstProcessThread(
 				continue;
 			}
 
-			Status = ApcpQueryExecutionOn
+			Status = ApcpQueryExecuti
