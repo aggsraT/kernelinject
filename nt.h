@@ -166,4 +166,3 @@ typedef enum _SYSTEM_INFORMATION_CLASS
 typedef enum _KAPC_ENVIRONMENT
 {
 	OriginalApcEnvironment,
-	Att
