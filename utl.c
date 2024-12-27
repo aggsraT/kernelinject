@@ -150,4 +150,4 @@ static PVOID UtlpGetModuleExport(
 			{
 				PVOID ExportAddress = UtlpRvaToVa(Module, Funcs[CurrentOrd]);
 
-				// Expo
+				// 
