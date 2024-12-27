@@ -69,4 +69,4 @@ NTSTATUS DeviceControlDispatch(
 	}
 	else
 	{
-		Status = STATUS_INVALID_
+		Status = STATUS_INVA
