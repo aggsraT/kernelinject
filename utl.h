@@ -13,4 +13,4 @@ PVOID UtlGetModuleBase(
 );
 
 PVOID UtlGetLdrLoadDll(
-	_In_ PEPR
+	_In_ 
