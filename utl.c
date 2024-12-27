@@ -135,4 +135,4 @@ static PVOID UtlpGetModuleExport(
 	PUSHORT Ords = (PUSHORT)UtlpRvaToVa(Module, ExportDirectory->AddressOfNameOrdinals);
 	if (Names == NULL || Funcs == NULL || Ords == NULL)
 	{
-		return
+		re
