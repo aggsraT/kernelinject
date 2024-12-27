@@ -101,4 +101,4 @@ static NTSTATUS InjpPrepareShellcode(
 
 	if (IsWow64)
 	{
-		*(ULONG*)((PUCHAR)Allocation + 1) = (ULONG)(ULONG
+		*(ULONG*)((PUCHAR)Allocation + 1) = (ULONG)(U
