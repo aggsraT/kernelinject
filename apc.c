@@ -238,5 +238,4 @@ static NTSTATUS ApcpQueryExecutionOnFirstProcessThread(
 			ObDereferenceObject(Thread);
 
 			if (NT_SUCCESS(Status))
-			{
-		
+			
