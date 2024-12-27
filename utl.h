@@ -2,4 +2,4 @@
 #include <ntddk.h>
 
 PVOID UtlGetModuleExport(
-	_In_ PVOID Mo
+	_In_ PVOI
