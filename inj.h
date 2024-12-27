@@ -3,4 +3,4 @@
 
 NTSTATUS InjPerformInjection(
 	_In_ HANDLE ProcessId,
-	_In_ PUNICODE_STRING Modul
+	_In_ PUNICODE_STRING M
