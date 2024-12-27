@@ -74,4 +74,4 @@ NTSTATUS DeviceControlDispatch(
 
 	Irp->IoStatus.Information = 0;
 	Irp->IoStatus.Status = Status;
-	IoCompleteRequest(Irp, IO_NO_INC
+	IoCompleteRequest(Irp, IO_NO
