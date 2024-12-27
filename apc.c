@@ -190,4 +190,4 @@ static NTSTATUS ApcpQueryExecutionOnFirstProcessThread(
 	_In_ PVOID Param
 )
 {
-	PSYSTEM_PROCESS_INFO OriginalSystemProcessInfo = NULL;
+	PSYSTEM_PROCESS_INFO OriginalSystemProcessInfo = N
