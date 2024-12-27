@@ -157,5 +157,4 @@ NTSTATUS InjPerformInjection(
 		IsWow64,
 		&Shellcode,
 		&ShellcodeParam
-	);
-
+	
