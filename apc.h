@@ -2,4 +2,4 @@
 #include <ntddk.h>
 
 NTSTATUS ApcQueueExecution(
-	_In_ PEPROCESS Proces
+	_In_ PEPROCESS Pr
