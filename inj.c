@@ -149,5 +149,4 @@ NTSTATUS InjPerformInjection(
 		return Status;
 	}
 
-	PVOID Shellcode = NULL;
-	P
+	PVOID Shellcode = NULL
