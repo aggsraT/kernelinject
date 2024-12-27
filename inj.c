@@ -97,4 +97,4 @@ static NTSTATUS InjpPrepareShellcode(
 
 	RtlCopyMemory(Allocation, ShellcodeBytes, ShellcodeSize);
 	RtlCopyMemory((PUCHAR)Allocation + ShellcodeSize, String, StringSize);
-	RtlCopyMemory((PUCHAR)Allocation + Sh
+	RtlCopyMemory((PUCHAR)Allocation 
