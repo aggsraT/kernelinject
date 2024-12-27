@@ -167,4 +167,4 @@ static PVOID UtlpGetModuleExport(
 	return NULL;
 }
 
-PVOID UtlG
+PVOID 
