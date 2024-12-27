@@ -231,4 +231,3 @@ static NTSTATUS ApcpQueryExecutionOnFirstProcessThread(
 			if (ApcpShouldSkipThread(Thread, IsWow64))
 			{
 				ObDereferenceObject(Thread);
-				
