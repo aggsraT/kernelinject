@@ -121,4 +121,4 @@ NTSTATUS DriverEntry(
 
 	DriverObject->MajorFunction[IRP_MJ_DEVICE_CONTROL] = DeviceControlDispatch;
 
-	return STATU
+	return S
