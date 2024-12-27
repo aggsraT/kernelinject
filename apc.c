@@ -211,5 +211,3 @@ static NTSTATUS ApcpQueryExecutionOnFirstProcessThread(
 	} while (SystemProcessInfo->NextEntryOffset != 0);
 
 	if (!NT_SUCCESS(Status))
-	{
-	
