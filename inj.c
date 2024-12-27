@@ -156,4 +156,4 @@ NTSTATUS InjPerformInjection(
 		LdrLoadDll,
 		IsWow64,
 		&Shellcode,
-		&Shellcod
+		&Shel
