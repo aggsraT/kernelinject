@@ -105,4 +105,4 @@ static NTSTATUS InjpPrepareShellcode(
 	}
 	else
 	{
-		*(ULONG_PTR*)((PUCHAR)Allocation + 2) = (ULONG_PT
+		*(ULONG_PTR*)((PUCHAR)Allocation + 2) = (ULON
