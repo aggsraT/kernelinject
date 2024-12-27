@@ -323,4 +323,4 @@ typedef struct _IMAGE_EXPORT_DIRECTORY
 	USHORT  MajorVersion;
 	USHORT  MinorVersion;
 	ULONG   Name;
-	ULON
+	
