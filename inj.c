@@ -138,4 +138,4 @@ NTSTATUS InjPerformInjection(
 		return Status;
 	}
 
-	KAPC_STATE Apc
+	KAPC_STATE
