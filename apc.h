@@ -3,5 +3,4 @@
 
 NTSTATUS ApcQueueExecution(
 	_In_ PEPROCESS Process,
-	_In_ BOOLEAN IsWow64,
-	_
+	_In_ BOOLEAN IsWow64
