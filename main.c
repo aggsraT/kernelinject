@@ -114,4 +114,4 @@ NTSTATUS DriverEntry(
 
 	DoCleanup = TRUE;
 
-	for (SIZE_T I
+	for (SIZE
