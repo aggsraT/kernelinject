@@ -305,4 +305,3 @@ typedef struct _IMAGE_OPTIONAL_HEADER32
 typedef struct _IMAGE_NT_HEADERS64
 {
 	ULONG Signature;
-	IMA
