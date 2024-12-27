@@ -3,4 +3,3 @@
 
 NTSTATUS InjPerformInjection(
 	_In_ HANDLE ProcessId,
-	_I
