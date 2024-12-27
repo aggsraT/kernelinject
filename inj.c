@@ -116,4 +116,4 @@ static NTSTATUS InjpPrepareShellcode(
 
 static NTSTATUS InjpExecuteShellcode(
 	_In_ PEPROCESS Process,
-	_In_ BOOLEAN IsW
+	_In_ BOOLEAN
