@@ -52,5 +52,4 @@ NTSTATUS DeviceControlDispatch(
 	PIO_STACK_LOCATION StackLocation = IoGetCurrentIrpStackLocation(Irp);
 	NTSTATUS Status = STATUS_SUCCESS;
 
-	if (Irp->AssociatedIrp.SystemBuffer != NULL &&
-		
+	if (Irp->AssociatedIrp.SystemBuffer != NULL &
