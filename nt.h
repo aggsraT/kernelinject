@@ -173,4 +173,4 @@ typedef enum _KAPC_ENVIRONMENT
 
 typedef
 VOID
-(NTAPI *PKNORMA
+(NTAPI *PKN
