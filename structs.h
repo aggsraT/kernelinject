@@ -295,4 +295,4 @@ typedef struct _IMAGE_OPTIONAL_HEADER32
 	USHORT  DllCharacteristics;
 	ULONG   SizeOfStackReserve;
 	ULONG   SizeOfStackCommit;
-	ULONG   Siz
+	ULONG  
