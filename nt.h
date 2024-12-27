@@ -156,4 +156,4 @@ typedef enum _SYSTEM_INFORMATION_CLASS
 	SystemKernelDebuggerInformationEx = 0x95,
 	SystemBootMetadataInformation = 0x96,
 	SystemSoftRebootInformation = 0x97,
-	SystemElamCertificateInfo
+	SystemElamCertificate
