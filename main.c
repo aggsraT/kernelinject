@@ -97,4 +97,3 @@ NTSTATUS DriverEntry(
 		FILE_DEVICE_SECURE_OPEN,
 		FALSE,
 		&DeviceObject
-	);
