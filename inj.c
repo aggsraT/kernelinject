@@ -125,4 +125,4 @@ static NTSTATUS InjpExecuteShellcode(
 }
 
 NTSTATUS InjPerformInjection(
-	_In_ HANDL
+	_In_ H
