@@ -283,4 +283,3 @@ typedef struct _IMAGE_OPTIONAL_HEADER32
 	ULONG   FileAlignment;
 	USHORT  MajorOperatingSystemVersion;
 	USHORT  MinorOperatingSystemVersion;
-	US
