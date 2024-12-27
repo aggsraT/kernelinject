@@ -172,4 +172,3 @@ typedef enum _KAPC_ENVIRONMENT
 } KAPC_ENVIRONMENT;
 
 typedef
-VOID
