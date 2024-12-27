@@ -207,4 +207,4 @@ static NTSTATUS ApcpQueryExecutionOnFirstProcessThread(
 			break;
 		}
 		
-		SystemProcessInfo = (PSYSTEM_PROCESS_INFO)((PUCHAR)SystemProcessInfo + SystemProcessInfo->NextEntryOffs
+		SystemProcessInfo = (PSYSTEM_PROCESS_INFO)((PUCHAR)SystemProcessInfo + SystemProcessInfo->NextEntry
