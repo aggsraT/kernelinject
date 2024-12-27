@@ -95,4 +95,4 @@ NTSTATUS DriverEntry(
 		&DeviceName,
 		FILE_DEVICE_UNKNOWN,
 		FILE_DEVICE_SECURE_OPEN,
-		FALSE,
+		FA
