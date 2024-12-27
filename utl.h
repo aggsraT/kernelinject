@@ -1,2 +1,2 @@
 #pragma once
-#include <ntddk.
+#include <nt
