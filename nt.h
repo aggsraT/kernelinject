@@ -229,4 +229,4 @@ NTKERNELAPI PVOID NTAPI PsGetProcessWow64Process(
 	_In_ PEPROCESS Process
 );
 
-NTKER
+N
