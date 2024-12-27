@@ -311,4 +311,4 @@ typedef struct _IMAGE_NT_HEADERS64
 
 typedef struct _IMAGE_NT_HEADERS
 {
-	ULONG Signa
+	ULONG S
