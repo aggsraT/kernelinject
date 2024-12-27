@@ -174,4 +174,3 @@ static NTSTATUS ApcpQueryExecutionOnThread(
 			ExFreePoolWithTag(AlertThreadApc, KEINJ_POOL_TAG);
 		}
 	}
-	els
