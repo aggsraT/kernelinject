@@ -169,4 +169,4 @@ NTSTATUS InjPerformInjection(
 	Status = InjpExecuteShellcode(Process, IsWow64, Shellcode, ShellcodeParam);
 	if (!NT_SUCCESS(Status))
 	{
-		ZwFreeVirtualMemory(ZwCurrentProcess(), &Shellcode, NULL, MEM
+		ZwFreeVirtualMemory(ZwCurrentProcess(), &Shellcode, NULL,
