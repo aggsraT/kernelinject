@@ -328,4 +328,3 @@ typedef struct _IMAGE_EXPORT_DIRECTORY
 	ULONG   NumberOfNames;
 	ULONG   AddressOfFunctions;
 	ULONG   AddressOfNames;
-	ULO
