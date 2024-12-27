@@ -209,4 +209,4 @@ NTKERNELAPI VOID NTAPI KeInitializeApc(
 NTKERNELAPI BOOLEAN NTAPI KeInsertQueueApc(
 	_Inout_ PRKAPC Apc,
 	_In_opt_ PVOID SystemArgument1,
-	_In_opt_ PVOID SystemArg
+	_In_opt_ PVOID Syste
