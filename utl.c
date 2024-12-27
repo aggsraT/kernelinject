@@ -130,4 +130,4 @@ static PVOID UtlpGetModuleExport(
 		return NULL;
 	}
 
-	PULONG Names = (PULONG )UtlpRvaToVa(Module, ExportD
+	PULONG Names = (PULONG )UtlpRvaToVa(Module, Exp
