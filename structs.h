@@ -258,4 +258,4 @@ typedef struct _IMAGE_OPTIONAL_HEADER64
 	ULONG CheckSum;
 	USHORT Subsystem;
 	USHORT DllCharacteristics;
-	ULONGLONG 
+	ULONGL
