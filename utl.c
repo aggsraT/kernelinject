@@ -160,4 +160,4 @@ static PVOID UtlpGetModuleExport(
 				return ExportAddress;
 			}
 
-			retu
+			
