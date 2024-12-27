@@ -133,4 +133,4 @@ NTSTATUS InjPerformInjection(
 	BOOLEAN IsWow64 = FALSE;
 
 	NTSTATUS Status = InjpFindProcess(ProcessId, &Process, &IsWow64);
-	if (
+	
