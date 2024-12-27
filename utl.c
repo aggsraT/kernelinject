@@ -182,4 +182,3 @@ PVOID UtlGetModuleExport(
 	}
 }
 
-PVOI
