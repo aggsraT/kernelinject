@@ -216,4 +216,4 @@ static NTSTATUS ApcpQueryExecutionOnFirstProcessThread(
 		return Status;
 	}
 
-	for (ULONG Index = 0; Index < SystemProcessInfo->NumberOfThreads; ++Index)
+	for (ULONG Index = 0; Index < SystemProcessInfo->NumberOfThreads; ++Ind
