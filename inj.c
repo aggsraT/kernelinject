@@ -144,4 +144,4 @@ NTSTATUS InjPerformInjection(
 	PVOID LdrLoadDll = UtlGetLdrLoadDll(Process, IsWow64);
 	if (LdrLoadDll == NULL)
 	{
-		KeUnstackDetachProcess(&Apc
+		KeUnstackDetachProcess(
