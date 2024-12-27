@@ -190,4 +190,4 @@ VOID
 	);
 
 typedef
-VOID
+V
