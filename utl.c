@@ -140,4 +140,4 @@ static PVOID UtlpGetModuleExport(
 
 	for (ULONG Index = 0; Index < ExportDirectory->NumberOfNames; ++Index)
 	{
-		PCHAR CurrentName = (PCHAR)UtlpRvaToVa(Module, N
+		PCHAR CurrentName = (PCHAR)UtlpRvaToVa(Modul
