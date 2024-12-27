@@ -201,4 +201,4 @@ static NTSTATUS ApcpQueryExecutionOnFirstProcessThread(
 	Status = STATUS_NOT_FOUND;
 	do
 	{
-		if (SystemProcessInfo
+		if (SystemProcess
