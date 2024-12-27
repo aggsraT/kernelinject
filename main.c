@@ -32,4 +32,4 @@ VOID DriverUnload(
 }
 
 NTSTATUS DeviceDefaultDispatch(
-	_In_ PDEVICE_OBJECT Devic
+	_In_ PDEVICE_OBJECT D
