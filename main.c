@@ -67,4 +67,3 @@ NTSTATUS DeviceControlDispatch(
 			&ModulePath
 		);
 	}
-	el
