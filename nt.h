@@ -205,5 +205,3 @@ NTKERNELAPI VOID NTAPI KeInitializeApc(
 	_In_opt_ KPROCESSOR_MODE ApcMode,
 	_In_opt_ PVOID NormalContext
 );
-
-NTK
