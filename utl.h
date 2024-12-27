@@ -14,4 +14,4 @@ PVOID UtlGetModuleBase(
 
 PVOID UtlGetLdrLoadDll(
 	_In_ PEPROCESS Process, 
-	_In_ BO
+	_In
