@@ -149,4 +149,4 @@ NTSTATUS InjPerformInjection(
 		return Status;
 	}
 
-	PVOID Shellcod
+	PVOID Shel
