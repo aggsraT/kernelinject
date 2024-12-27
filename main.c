@@ -42,4 +42,4 @@ NTSTATUS DeviceDefaultDispatch(
 	return STATUS_SUCCESS;
 }
 
-NTSTATUS DeviceCont
+NTSTATUS Device
