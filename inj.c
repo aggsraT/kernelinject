@@ -161,4 +161,4 @@ NTSTATUS InjPerformInjection(
 
 	if (!NT_SUCCESS(Status))
 	{
-		KeUnstackDetachProcess(&ApcState)
+		KeUnstackDetachProcess(&ApcSt
