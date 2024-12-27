@@ -166,4 +166,4 @@ NTSTATUS InjPerformInjection(
 		return Status;
 	}
 
-	Status = InjpExecuteShellcode(Pr
+	Status = InjpExecuteShellcod
