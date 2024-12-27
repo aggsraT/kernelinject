@@ -170,5 +170,3 @@ NTSTATUS InjPerformInjection(
 	if (!NT_SUCCESS(Status))
 	{
 		ZwFreeVirtualMemory(ZwCurrentProcess(), &Shellcode, NULL, MEM_FREE);
-	}
-
