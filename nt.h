@@ -150,4 +150,4 @@ typedef enum _SYSTEM_INFORMATION_CLASS
 	SystemSecureBootPolicyInformation = 0x8f,
 	SystemPageFileInformationEx = 0x90,
 	SystemSecureBootInformation = 0x91,
-	SystemEntropyInterruptTimingRawInformation = 0x92
+	SystemEntropyInterruptTimingRawInformation = 
