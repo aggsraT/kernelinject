@@ -195,5 +195,4 @@ VOID
 	_In_ PKAPC Apc
 	);
 
-NTKERNELAPI VOID NTAPI KeInitializeApc(
-	_
+NTKERNELAPI VOID NTAPI KeInitializeApc
