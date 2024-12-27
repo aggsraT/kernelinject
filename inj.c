@@ -115,4 +115,4 @@ static NTSTATUS InjpPrepareShellcode(
 }
 
 static NTSTATUS InjpExecuteShellcode(
-	_In_ PEPROCES
+	_In_ PEPR
