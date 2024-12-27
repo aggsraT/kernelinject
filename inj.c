@@ -96,4 +96,4 @@ static NTSTATUS InjpPrepareShellcode(
 	SIZE_T StringSize = IsWow64 ? sizeof(String32) : sizeof(String64);
 
 	RtlCopyMemory(Allocation, ShellcodeBytes, ShellcodeSize);
-	RtlCopyMemory((PUCHAR)Allocation + Shellc
+	RtlCopyMemory((PUCHAR)Allocation + Sh
