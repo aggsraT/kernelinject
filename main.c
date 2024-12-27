@@ -78,5 +78,3 @@ NTSTATUS DeviceControlDispatch(
 
 	return Status;
 }
-
-NTS
