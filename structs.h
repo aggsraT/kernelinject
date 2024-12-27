@@ -274,5 +274,4 @@ typedef struct _IMAGE_OPTIONAL_HEADER32
 	UCHAR   MinorLinkerVersion;
 	ULONG   SizeOfCode;
 	ULONG   SizeOfInitializedData;
-	ULONG   SizeOfUninitializedData;
-	U
+	ULONG   SizeOfUninitializedData
