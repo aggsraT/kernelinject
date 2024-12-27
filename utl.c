@@ -123,4 +123,3 @@ static PVOID UtlpGetModuleExport(
 	}
 
 	ULONG ExportDirectorySize = DataDirectory->Size;
-	PI
