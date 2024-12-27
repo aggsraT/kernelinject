@@ -124,4 +124,4 @@ static NTSTATUS InjpExecuteShellcode(
 	return ApcQueueExecution(Process, IsWow64, Shellcode, ShellcodeParam);
 }
 
-NTSTATUS InjPerfo
+NTSTATUS InjP
