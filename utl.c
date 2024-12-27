@@ -189,5 +189,3 @@ PVOID UtlGetModuleBase(
 )
 {
 	__try
-	{
-	
