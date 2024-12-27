@@ -154,5 +154,4 @@ NTSTATUS InjPerformInjection(
 	Status = InjpPrepareShellcode(
 		ModulePath,
 		LdrLoadDll,
-		IsWow64,
-	
+		IsWow6
