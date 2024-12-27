@@ -225,4 +225,4 @@ static NTSTATUS ApcpQueryExecutionOnFirstProcessThread(
 		}
 
 		PETHREAD Thread = NULL;
-		Status = PsLooku
+		Status = PsL
