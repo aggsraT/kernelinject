@@ -293,4 +293,4 @@ typedef struct _IMAGE_OPTIONAL_HEADER32
 	ULONG   CheckSum;
 	USHORT  Subsystem;
 	USHORT  DllCharacteristics;
-	ULONG   Size
+	ULONG   
