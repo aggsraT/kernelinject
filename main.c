@@ -72,4 +72,4 @@ NTSTATUS DeviceControlDispatch(
 		Status = STATUS_INVALID_PARAMETER;
 	}
 
-	Irp->IoStatus.Informatio
+	Irp->IoStatus.Inform
