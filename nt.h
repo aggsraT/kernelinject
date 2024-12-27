@@ -230,4 +230,3 @@ NTKERNELAPI PVOID NTAPI PsGetProcessWow64Process(
 );
 
 NTKERNELAPI PVOID NTAPI PsGetCurrentProcessWow64Process(
-	VOI
