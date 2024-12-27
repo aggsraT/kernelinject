@@ -255,4 +255,4 @@ NTSTATUS ApcQueueExecution(
 	_In_ PVOID Param
 )
 {
-	return ApcpQueryExecutionOnFirs
+	return ApcpQueryExecutionOn
