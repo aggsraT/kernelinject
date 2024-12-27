@@ -62,4 +62,4 @@ NTSTATUS DeviceControlDispatch(
 		UNICODE_STRING ModulePath = { 0 };
 		RtlInitUnicodeString(&ModulePath, InjectionData->ModulePath);
 
-		Status = 
+		Statu
