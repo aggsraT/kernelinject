@@ -1,4 +1,4 @@
 #pragma once
 #include <ntddk.h>
 
-NTSTATUS InjPerfo
+NTSTATUS InjP
