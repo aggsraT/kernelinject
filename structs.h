@@ -277,4 +277,4 @@ typedef struct _IMAGE_OPTIONAL_HEADER32
 	ULONG   SizeOfUninitializedData;
 	ULONG   AddressOfEntryPoint;
 	ULONG   BaseOfCode;
-	ULONG   Ba
+	ULONG 
