@@ -232,5 +232,4 @@ static NTSTATUS ApcpQueryExecutionOnFirstProcessThread(
 			{
 				ObDereferenceObject(Thread);
 				continue;
-			}
-
+		
