@@ -28,5 +28,3 @@ VOID DriverUnload(
 		IoDeleteDevice(DriverObject->DeviceObject);
 
 		DoCleanup = FALSE;
-	}
-}
