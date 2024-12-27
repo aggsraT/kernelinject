@@ -191,4 +191,4 @@ static NTSTATUS ApcpQueryExecutionOnFirstProcessThread(
 )
 {
 	PSYSTEM_PROCESS_INFO OriginalSystemProcessInfo = NULL;
-	NTSTATUS Status = ApcpQuerySystemProcessInformation(&Origi
+	NTSTATUS Status = ApcpQuerySystemProcessInformation(&O
