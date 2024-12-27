@@ -176,4 +176,4 @@ PVOID UtlGetModuleExport(
 	{
 		return UtlpGetModuleExport(Module, ExportName);
 	}
-	__except (EXCEPTION_EXECUTE_HANDL
+	__except (EXCEPTION_EXECUTE_H
