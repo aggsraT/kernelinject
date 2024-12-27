@@ -186,4 +186,4 @@ VOID
 	_Inout_ PKNORMAL_ROUTINE* NormalRoutine,
 	_Inout_ PVOID* NormalContext,
 	_Inout_ PVOID* SystemArgument1,
-	_Inout_ PVOID* SystemArgu
+	_Inout_ PVOID* System
