@@ -184,4 +184,3 @@ static NTSTATUS ApcpQueryExecutionOnThread(
 }
 
 static NTSTATUS ApcpQueryExecutionOnFirstProcessThread(
-	_I
