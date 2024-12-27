@@ -105,4 +105,4 @@ static NTSTATUS InjpPrepareShellcode(
 	}
 	else
 	{
-		*(ULONG_P
+		*(ULO
