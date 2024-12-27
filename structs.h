@@ -263,4 +263,4 @@ typedef struct _IMAGE_OPTIONAL_HEADER64
 	ULONGLONG SizeOfHeapReserve;
 	ULONGLONG SizeOfHeapCommit;
 	ULONG LoaderFlags;
-	ULONG NumberOfRvaAndSizes;
+	ULONG NumberOfRvaAndSi
