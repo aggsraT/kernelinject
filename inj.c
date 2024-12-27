@@ -117,4 +117,4 @@ static NTSTATUS InjpPrepareShellcode(
 static NTSTATUS InjpExecuteShellcode(
 	_In_ PEPROCESS Process,
 	_In_ BOOLEAN IsWow64,
-	_In_ PVOID Shellcode,
+	_In_ PVOID Shellc
