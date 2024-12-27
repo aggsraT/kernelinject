@@ -216,5 +216,3 @@ PVOID UtlGetLdrLoadDll(
 	{
 		return NULL;
 	}
-
-	re
