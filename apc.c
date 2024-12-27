@@ -190,4 +190,4 @@ static NTSTATUS ApcpQueryExecutionOnFirstProcessThread(
 	_In_ PVOID Param
 )
 {
-	PSYSTE
+	PS
