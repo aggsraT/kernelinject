@@ -53,4 +53,4 @@ NTSTATUS DeviceControlDispatch(
 	NTSTATUS Status = STATUS_SUCCESS;
 
 	if (Irp->AssociatedIrp.SystemBuffer != NULL &&
-		StackLocation->Parameters.DeviceIoControl.IoControlCode 
+		StackLocation->Parameters.DeviceIoControl.IoControlC
