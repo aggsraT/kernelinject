@@ -111,5 +111,3 @@ NTSTATUS DriverEntry(
 		IoDeleteDevice(DeviceObject);
 		return STATUS_UNSUCCESSFUL;
 	}
-
-	D
