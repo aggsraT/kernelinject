@@ -169,4 +169,4 @@ typedef enum _KAPC_ENVIRONMENT
 	AttachedApcEnvironment,
 	CurrentApcEnvironment,
 	InsertApcEnvironment
-} KAPC_ENVIRONMEN
+} KAPC_ENVIRO
