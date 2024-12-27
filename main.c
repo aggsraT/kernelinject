@@ -86,4 +86,4 @@ NTSTATUS DriverEntry(
 {
 	UNREFERENCED_PARAMETER(RegistryPath);
 
-	Driver
+	Dr
