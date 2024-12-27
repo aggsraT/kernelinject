@@ -228,4 +228,4 @@ static NTSTATUS ApcpQueryExecutionOnFirstProcessThread(
 		Status = PsLookupThreadByThreadId(UniqueThreadId, &Thread);
 		if (NT_SUCCESS(Status) && Thread != NULL)
 		{
-			if (ApcpS
+			if (A
