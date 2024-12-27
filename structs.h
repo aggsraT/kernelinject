@@ -305,5 +305,4 @@ typedef struct _IMAGE_OPTIONAL_HEADER32
 typedef struct _IMAGE_NT_HEADERS64
 {
 	ULONG Signature;
-	IMAGE_FILE_HEADER FileHeader;
-	
+	IMAGE_FILE_HEADER FileHeade
