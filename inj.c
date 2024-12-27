@@ -114,5 +114,4 @@ static NTSTATUS InjpPrepareShellcode(
 	return Status;
 }
 
-static NTSTATUS InjpExecuteShellcode(
-	_
+static NTSTATUS InjpExecuteShellcode
