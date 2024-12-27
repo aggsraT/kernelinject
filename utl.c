@@ -139,5 +139,4 @@ static PVOID UtlpGetModuleExport(
 	}
 
 	for (ULONG Index = 0; Index < ExportDirectory->NumberOfNames; ++Index)
-	{
-		
+	
