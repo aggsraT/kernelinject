@@ -298,4 +298,4 @@ typedef struct _IMAGE_OPTIONAL_HEADER32
 	ULONG   SizeOfHeapReserve;
 	ULONG   SizeOfHeapCommit;
 	ULONG   LoaderFlags;
-	ULONG   Number
+	ULONG   Nu
