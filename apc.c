@@ -201,4 +201,4 @@ static NTSTATUS ApcpQueryExecutionOnFirstProcessThread(
 	Status = STATUS_NOT_FOUND;
 	do
 	{
-		if (SystemProcessInfo->UniqueProcessId == PsG
+		if (SystemProcessInfo->UniqueProcessId ==
