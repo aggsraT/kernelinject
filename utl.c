@@ -174,4 +174,4 @@ PVOID UtlGetModuleExport(
 {
 	__try
 	{
-		return UtlpGetModuleExport(Mo
+		return UtlpGetModuleExpor
