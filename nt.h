@@ -193,4 +193,3 @@ typedef
 VOID
 (NTAPI *PKRUNDOWN_ROUTINE) (
 	_In_ PKAPC Apc
-	);
