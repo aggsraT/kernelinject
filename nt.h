@@ -218,4 +218,4 @@ NTKERNELAPI BOOLEAN NTAPI KeTestAlertThread(
 );
 
 NTKERNELAPI PVOID NTAPI PsGetThreadTeb(
-	_In_
+	
