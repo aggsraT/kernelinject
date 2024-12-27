@@ -159,4 +159,3 @@ typedef enum _SYSTEM_INFORMATION_CLASS
 	SystemElamCertificateInformation = 0x98,
 	SystemOfflineDumpConfigInformation = 0x99,
 	SystemProcessorFeaturesInformation = 0x9a,
-	Sys
