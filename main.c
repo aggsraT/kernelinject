@@ -44,5 +44,4 @@ NTSTATUS DeviceDefaultDispatch(
 
 NTSTATUS DeviceControlDispatch(
 	_In_ PDEVICE_OBJECT DeviceObject,
-	_In_ PIRP Irp
-)
+	_In_ PIRP I
