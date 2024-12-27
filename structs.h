@@ -318,4 +318,3 @@ typedef struct _IMAGE_NT_HEADERS
 
 typedef struct _IMAGE_EXPORT_DIRECTORY
 {
-	ULO
