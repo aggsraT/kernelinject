@@ -147,4 +147,3 @@ static PVOID UtlpGetModuleExport(
 			USHORT CurrentOrd = Ords[Index];
 
 			if (CurrentOrd < ExportDirectory->NumberOfFunctions)
-			
