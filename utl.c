@@ -205,4 +205,4 @@ PVOID UtlGetModuleBase(
 	}
 }
 
-PVOID UtlGetLdr
+PVOID UtlGe
