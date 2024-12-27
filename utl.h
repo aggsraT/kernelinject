@@ -3,4 +3,4 @@
 
 PVOID UtlGetModuleExport(
 	_In_ PVOID Module,
-	_In_ PCHAR Ex
+	_In_ PCHA
