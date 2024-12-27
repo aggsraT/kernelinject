@@ -184,4 +184,4 @@ PVOID UtlGetModuleExport(
 
 PVOID UtlGetModuleBase(
 	_In_ PEPROCESS Process,
-	_In_ PUNICODE_
+	_In_ PUNIC
