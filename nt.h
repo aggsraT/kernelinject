@@ -200,4 +200,4 @@ NTKERNELAPI VOID NTAPI KeInitializeApc(
 	_In_ PETHREAD Thread,
 	_In_ KAPC_ENVIRONMENT Environment,
 	_In_ PKKERNEL_ROUTINE KernelRoutine,
-	_In_opt_ PKRUNDOW
+	_In_opt_ PKRU
