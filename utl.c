@@ -138,4 +138,4 @@ static PVOID UtlpGetModuleExport(
 		return NULL;
 	}
 
-	for (ULONG I
+	for (ULO
