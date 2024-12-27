@@ -101,4 +101,4 @@ static NTSTATUS InjpPrepareShellcode(
 
 	if (IsWow64)
 	{
-		*(ULO
+		*
