@@ -103,5 +103,3 @@ NTSTATUS DriverEntry(
 	{
 		return STATUS_UNSUCCESSFUL;
 	}
-
-	St
