@@ -176,4 +176,4 @@ static NTSTATUS ApcpQueryExecutionOnThread(
 	}
 	else
 	{
-		ExFreePoo
+		ExFre
