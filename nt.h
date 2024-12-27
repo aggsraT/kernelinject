@@ -162,5 +162,3 @@ typedef enum _SYSTEM_INFORMATION_CLASS
 	SystemRegistryReconciliationInformation = 0x9b,
 	MaxSystemInfoClass = 0x9c,
 } SYSTEM_INFORMATION_CLASS;
-
-ty
