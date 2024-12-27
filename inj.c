@@ -137,5 +137,3 @@ NTSTATUS InjPerformInjection(
 	{
 		return Status;
 	}
-
-	KA
