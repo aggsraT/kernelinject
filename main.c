@@ -70,6 +70,4 @@ NTSTATUS DeviceControlDispatch(
 	else
 	{
 		Status = STATUS_INVALID_PARAMETER;
-	}
-
 	
