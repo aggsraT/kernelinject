@@ -329,4 +329,4 @@ typedef struct _IMAGE_EXPORT_DIRECTORY
 	ULONG   AddressOfFunctions;
 	ULONG   AddressOfNames;
 	ULONG   AddressOfNameOrdinals;
-} IMAGE_EXPORT_DIREC
+} IMAGE_EXPORT_D
