@@ -191,4 +191,3 @@ VOID
 
 typedef
 VOID
-(NTA
